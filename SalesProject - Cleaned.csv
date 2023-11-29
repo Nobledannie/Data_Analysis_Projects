@@ -1,0 +1,1001 @@
+Date,ProductId,ProductName,Supplier,Address,StoreID,SalesID,QuantityOrdered,QtyAvailable,ProductCost,Total
+2018-08-25,1,Chocolate Bar - Smarties,National Stores,9 Springview Point,85123,21699,53,11,1.25,13.75
+2020-07-13,2,Pepper - Red Bell,Family Dollar,5434 Daystar Circle,71053,11624,33,1,2.99,2.99
+2019-11-13,3,Chickensplit Half,BJ's Wholesale Club,3 Darwin Drive,84406,66087,39,11,0.17,1.87
+2017-12-08,4,Zucchini - Green,Ocean State Job Lot,684 Bunting Lane,84029,59396,62,1,5.28,5.28
+2018-01-13,5,"Cod - Salted, Boneless",Ollie's Bargain Outlet,50162 John Wall Drive,37444,60346,78,3,0.78,2.34
+2019-11-13,6,Flower - Dish Garden,BJ's Wholesale Club,8 Fordem Pass,84406,66087,39,9,0.37,3.33
+2019-11-13,7,"Beef - Rouladin, Sliced",BJ's Wholesale Club,89058 Monument Hill,84406,66087,39,4,1.55,6.2
+2017-10-15,8,"Cheese - Brie, Cups 125g",Costco,1 Clarendon Way,22752,44306,75,3,1.49,4.47
+2017-10-24,9,Clam - Cherrystone,Fred's,629 Crescent Oaks Center,21730,74178,62,8,2.33,18.64
+2017-01-15,10,Coffee Cup 8oz 5338cd,Big Lots,175 Kim Place,22633,22911,54,7,0.1,0.7
+2019-03-06,11,Sprouts - Alfalfa,HomeGoods,689 Vera Pass,22632,51987,53,4,0.88,3.52
+2019-03-06,12,Flour - Semolina,HomeGoods,78107 Logan Plaza,22632,51987,53,2,2.94,5.88
+2019-11-17,13,Monkfish - Fresh,Ben Franklin,28413 Knutson Park,84879,58956,69,9,1.22,10.98
+2018-01-13,14,Pepper - Green Thai,Ollie's Bargain Outlet,828 Iowa Parkway,37444,60346,78,11,1.52,16.72
+2019-10-11,15,Oranges,Burlington Coat Factory,28352 Tennyson Court,22745,72877,49,1,5.76,5.76
+2017-12-08,16,"Beef - Tenderlion, Center Cut",Ocean State Job Lot,0 Cottonwood Pass,84029,59396,62,5,1.05,5.25
+2020-04-29,17,"Octopus - Baby, Cleaned",Renys,14 Mayfield Alley,22748,82434,68,5,0.34,1.7
+2019-09-26,18,Rootbeer,Gabe's,010 Lunder Avenue,22749,55058,29,9,1.03,9.27
+2017-10-02,19,Water - Tonic,Meijer,0 Dryden Park,22310,64134,69,4,0.14,0.56
+2020-04-03,20,Longos - Chicken Caeser Salad,HomeGoods,92 Heffernan Trail,22632,21997,96,5,3.87,19.35
+2020-05-22,21,Hummus - Spread,Dd's Discounts,634 Jackson Parkway,84969,32134,54,2,2.45,4.9
+2020-06-28,22,Curry Powder,Ollie's Bargain Outlet,5 Warner Parkway,37444,44881,65,4,1.56,6.24
+2020-09-19,23,"Bread - Crumbs, Bulk",Gordmans,353 Blackbird Avenue,22623,44496,18,3,0.43,1.29
+2018-06-05,24,Lamb - Loin Chops,Target,4496 Killdeer Court,22622,33886,35,3,1.79,5.37
+2019-04-03,25,Coffee Cup 16oz Foam,Family Dollar,4 Charing Cross Plaza,71053,82247,74,1,4.83,4.83
+2017-10-24,26,Towel Dispenser,Fred's,5995 Merchant Trail,21730,74178,62,11,0.36,3.96
+2018-04-07,27,Muskox - French Rack,Ross Stores,023 Coleman Place,21754,87676,91,2,0.59,1.18
+2019-10-09,28,Soup - Campbells Asian Noodle,Tuesday Morning,84269 Crescent Oaks Way,21755,81555,12,10,0.35,3.5
+2018-03-02,29,Soup - Base Broth Beef,Walmart,2 Laurel Drive,21777,20973,75,5,2.51,12.55
+2020-09-07,30,Cake - Lemon Chiffon,Dollar General,42385 Lighthouse Bay Hill,48187,11103,6,12,2.2,26.4
+2017-06-20,31,Onions - Red Pearl,Ben Franklin,9 Melvin Way,84879,43853,90,11,0.96,10.56
+2020-05-22,32,Green Tea Refresher,Dd's Discounts,4416 Barby Terrace,84969,32134,54,7,2.54,17.78
+2017-06-20,33,"Rum - Coconut, Malibu",Ben Franklin,496 Cambridge Plaza,84879,43853,90,7,1.84,12.88
+2020-05-22,34,Bagel - Everything,Dd's Discounts,375 Bellgrove Point,84969,32134,54,3,2.27,6.81
+2020-11-09,35,Trueblue - Blueberry 12x473ml,Harbor Freight Tools,40020 Morningstar Crossing,22960,24213,65,8,2.22,17.76
+2019-04-03,36,Cheese - St. Andre,Family Dollar,39 Graceland Place,71053,82247,74,5,2.42,12.1
+2017-09-29,37,Wine - Mondavi Coastal Private,National Stores,8 Hudson Crossing,85123,15965,73,4,0.88,3.52
+2020-09-01,38,Rice Wine - Aji Mirin,Gabe's,55 Bonner Lane,22749,59273,42,9,1.23,11.07
+2018-08-30,39,"Vodka - Hot, Lnferno",Renys,24 American Ash Plaza,22748,74119,20,4,7.08,28.32
+2020-09-07,40,Tarragon - Fresh,Dollar General,5657 Daystar Way,48187,11103,6,7,4.23,29.61
+2020-11-09,41,Lobster - Cooked,Harbor Freight Tools,25036 Division Terrace,22960,24213,65,9,0.79,7.11
+2018-04-16,42,"Lemonade - Kiwi, 591 Ml",Stein Mart,8668 Lakewood Gardens Road,22913,41524,69,6,4.24,25.44
+2020-09-19,43,Crackers Cheez It,Gordmans,4621 Burrows Hill,22623,44496,18,10,1.61,16.1
+2019-07-22,44,Pomello,Marshalls,00189 Jana Plaza,22912,52291,50,5,1.36,6.8
+2017-06-29,45,Rabbit - Whole,Burlington Coat Factory,1 Drewry Circle,22745,13866,2,3,3.2,9.6
+2018-04-16,46,Wine - Vovray Sec Domaine Huet,Stein Mart,42543 Chinook Road,22913,41524,69,9,2.01,18.09
+2017-09-24,47,Monkfish - Fresh,Five Below,7329 Esch Avenue,22914,67336,53,11,3.26,35.86
+2020-05-22,48,Appetizer - Escargot Puff,Dd's Discounts,2 Morrow Avenue,84969,32134,54,11,0.94,10.34
+2020-02-09,49,Mustard Prepared,Roses,0 4th Pass,21756,46940,63,8,0.53,4.24
+2017-01-18,50,Sherry - Dry,HomeSense,737 Caliangt Road,22728,87731,69,6,2.36,14.16
+2020-02-28,51,Wine - Penfolds Koonuga Hill,HomeGoods,41 Knutson Court,22632,41874,52,7,2.18,15.26
+2017-11-20,52,"Sparkling Wine - Rose, Freixenet",Marshalls,25554 Laurel Alley,22912,19338,8,1,6.05,6.05
+2020-06-02,53,Peppercorns - Green,Fred Meyer,1538 Steensland Park,22727,66811,25,10,1.76,17.6
+2019-01-03,54,"Arctic Char - Fresh, Whole",Shopko,421 Randy Lane,22726,22480,81,6,2.25,13.5
+2017-10-15,55,Cilantro / Coriander - Fresh,Costco,9 Dwight Plaza,22752,44306,75,10,2.56,25.6
+2017-09-29,56,Ecolab - Solid Fusion,National Stores,54321 Waxwing Crossing,85123,15965,73,2,3.99,7.98
+2020-09-06,57,Spinach - Frozen,Ross Stores,71 Dayton Plaza,21754,73573,12,6,0.6,3.6
+2020-05-29,58,Potatoes - Mini White 3 Oz,Big Lots,868 Atwood Park,22633,35382,70,10,1.21,12.1
+2020-06-02,59,Beets - Mini Golden,Family Dollar,7 Ronald Regan Park,71053,33317,46,9,1.76,15.84
+2018-08-30,60,"Lemonade - Strawberry, 591 Ml",Renys,8 Melvin Drive,22748,74119,20,6,1.81,10.86
+2020-05-22,61,"Rum - Cream, Amarula",Dd's Discounts,645 Pierstorff Terrace,84969,32134,54,5,2.52,12.6
+2017-02-12,62,Wheat - Soft Kernal Of Wheat,Tuesday Morning,709 6th Circle,21755,68751,34,7,2.09,14.63
+2018-08-30,63,Bulgar,Renys,6553 Maryland Center,22748,74119,20,2,3.48,6.96
+2019-12-03,64,"Pasta - Orzo, Dry",Kmart,89062 Eggendart Avenue,21724,28190,9,12,1.31,15.72
+2019-06-24,65,Tea - Lemon Scented,Meijer,8 Clove Center,22310,24978,2,12,1.04,12.48
+2020-12-18,66,Tray - 12in Rnd Blk,Dollar General,23 6th Drive,48187,26149,13,9,0.78,7.02
+2017-11-20,67,Peppercorns - Pink,Marshalls,2 Lawn Terrace,22912,19338,8,4,6.38,25.52
+2019-05-13,68,Sauce - Vodka Blush,Roses,82 Golf Plaza,21756,30049,9,2,2.27,4.54
+2017-02-28,69,"Appetizer - Mini Egg Roll, Shrimp",Walmart,6 Ridgeway Hill,21777,18980,3,6,2.13,12.78
+2019-11-13,70,Cheese - Fontina,BJ's Wholesale Club,2 Brown Plaza,84406,66087,39,12,0.27,3.24
+2017-08-28,71,Cattail Hearts,Ollie's Bargain Outlet,0317 Pond Hill,37444,79517,65,1,5.49,5.49
+2020-12-12,72,Napkin White - Starched,Target,4 4th Terrace,22622,45710,6,11,1.65,18.15
+2020-12-12,73,Pork - Ham Hocks - Smoked,Harbor Freight Tools,88199 Golf Course Center,22960,22089,65,4,2.97,11.88
+2020-03-18,74,"Lamb - Whole Head Off,nz",Bi-Mart,2 Nelson Alley,21883,32393,17,1,0.51,0.51
+2019-11-13,75,Filo Dough,BJ's Wholesale Club,9565 Arkansas Plaza,84406,66087,39,8,3.24,25.92
+2017-11-20,76,Jerusalem Artichoke,Marshalls,9 Iowa Terrace,22912,19338,8,12,0.16,1.92
+2019-01-03,77,Cookie Dough - Chunky,Shopko,02074 North Center,22726,22480,81,2,4.04,8.08
+2017-12-08,78,Wine - Semi Dry Riesling Vineland,Meijer,8132 High Crossing Street,22310,17272,41,10,1.86,18.6
+2020-03-20,79,Spice - Pepper Portions,T.J. Maxx,4591 Crownhardt Place,10002,18429,94,9,2.1,18.9
+2020-12-12,80,Aspic - Amber,Target,93 Basil Trail,22622,45710,6,2,2.88,5.76
+2017-04-18,81,Leeks - Large,Ben Franklin,2373 Derek Plaza,84879,68106,16,8,2.42,19.36
+2020-03-08,82,Easy Off Oven Cleaner,HomeGoods,85 Hayes Crossing,22632,55885,14,8,0.56,4.48
+2020-06-02,83,White Baguette,Fred Meyer,90 Dawn Point,22727,66811,25,8,1.21,9.68
+2017-11-20,84,Petit Baguette,Marshalls,96 Crownhardt Court,22912,19338,8,5,2.1,10.5
+2019-05-13,85,Chives - Fresh,Roses,165 Moland Pass,21756,30049,9,2,2.24,4.48
+2017-01-05,86,Tea - Herbal Sweet Dreams,National Stores,7588 Hudson Hill,85123,11370,28,12,0.04,0.48
+2020-03-20,87,Dasheen,T.J. Maxx,19077 Service Drive,10002,18429,94,10,1.4,14
+2017-08-28,88,"Nut - Walnut, Chopped",Ollie's Bargain Outlet,08032 Pennsylvania Avenue,37444,79517,65,3,7.85,23.55
+2020-05-05,89,Pop Shoppe Cream Soda,Ross Stores,666 Helena Parkway,21754,31068,30,3,9.62,28.86
+2019-03-26,90,Island Oasis - Magarita Mix,Harbor Freight Tools,01238 Sugar Parkway,22960,22395,63,1,2.82,2.82
+2020-06-02,91,Chicken - Leg / Back Attach,Fred Meyer,07 Nobel Pass,22727,66811,25,2,0.59,1.18
+2017-10-15,92,Loquat,Costco,26220 Gale Place,22752,44306,75,11,1.43,15.73
+2020-09-19,93,"Wine - Red, Black Opal Shiraz",Gordmans,07 Carpenter Place,22623,44496,18,3,5.28,15.84
+2020-05-29,94,Vacuum Bags 12x16,Big Lots,6086 Spenser Plaza,22633,35382,70,10,1.59,15.9
+2020-09-19,95,Bag - Clear 7 Lb,Gordmans,86944 Darwin Plaza,22623,44496,18,9,0.55,4.95
+2020-07-16,96,"Lemonade - Strawberry, 591 Ml",Stein Mart,65 School Alley,22913,32581,11,11,1.56,17.16
+2020-03-20,97,"Soup - Beef Conomme, Dry",T.J. Maxx,46172 Marquette Park,10002,18429,94,1,3.67,3.67
+2020-04-17,98,Appetizer - Veg Assortment,Burlington Coat Factory,00 Crescent Oaks Circle,22745,49608,23,9,1.55,13.95
+2020-04-05,99,Cookies - Englishbay Wht,Kmart,82984 Northridge Junction,21724,31748,52,1,8.84,8.84
+2017-10-19,100,Coffee - Decafenated,Dd's Discounts,7 Gina Street,84969,67283,73,7,2.17,15.19
+2020-04-23,101,Fork - Plastic,BJ's Wholesale Club,9 Kipling Road,84406,30276,46,11,0.54,5.94
+2020-03-08,102,Foie Gras,HomeGoods,6286 Knutson Alley,22632,55885,14,12,0.13,1.56
+2020-01-19,103,Country Roll,Roses,92300 Granby Point,21756,88036,33,10,1.16,11.6
+2017-12-08,104,Sauerkraut,Meijer,98 Arkansas Crossing,22310,17272,41,6,2.82,16.92
+2017-04-28,105,Hagen Daza - Dk Choocolate,Gabe's,46564 Dixon Drive,22749,65040,22,11,1.74,19.14
+2018-11-08,106,Red Currants,Shopko,0301 Melody Crossing,22726,67126,26,3,1.25,3.75
+2020-06-02,107,Cheese - Valancey,Family Dollar,3 Transport Circle,71053,33317,46,1,4.92,4.92
+2020-03-20,108,Pepper - Green Thai,T.J. Maxx,285 Evergreen Circle,10002,18429,94,12,1.78,21.36
+2017-08-11,109,Tomato - Plum With Basil,Gordmans,7 Cardinal Terrace,22623,18762,17,10,0.41,4.1
+2020-11-13,110,Snapple Raspberry Tea,Burlington Coat Factory,7788 Sommers Avenue,22745,23312,90,5,2.29,11.45
+2019-06-30,111,Rice Paper,Five Below,57326 Thierer Center,22914,50017,46,7,1.59,11.13
+2020-06-02,112,Pastry - French Mini Assorted,Family Dollar,368 Mallory Plaza,71053,33317,46,4,1.49,5.96
+2017-08-24,113,Lobster - Cooked,Ocean State Job Lot,69 Iowa Center,84029,23623,44,1,7.03,7.03
+2020-01-11,114,Wine - Rubyport,Ben Franklin,7 Shoshone Hill,84879,24516,19,7,2.64,18.48
+2020-01-19,115,"Lemonade - Kiwi, 591 Ml",Roses,1 Marquette Crossing,21756,88036,33,6,3.44,20.64
+2017-12-08,116,"Salmon - Atlantic, No Skin",Meijer,13456 Hayes Avenue,22310,17272,41,7,1.79,12.53
+2020-01-11,117,Flour - Rye,Ben Franklin,7124 Dovetail Trail,84879,24516,19,1,11.39,11.39
+2020-01-19,118,Oil - Sunflower,Roses,9 Prentice Place,21756,88036,33,10,2.45,24.5
+2020-03-18,119,Tomatillo,Bi-Mart,7 Rockefeller Parkway,21883,32393,17,3,1.09,3.27
+2018-11-08,120,Flour - Chickpea,Shopko,571 Clarendon Park,22726,67126,26,12,0.39,4.68
+2020-10-18,121,Soup - Campbells Chili,Fred Meyer,17010 Schiller Pass,22727,33485,28,4,0.51,2.04
+2020-10-01,122,Cheese - Marble,Dollar General,13538 Ryan Lane,48187,68156,89,1,2.66,2.66
+2020-09-10,123,"Capon - Breast, Double, Wing On",Roses,2 Longview Drive,21756,19748,76,1,3.3,3.3
+2020-05-08,124,Pernod,Five Below,47 Claremont Junction,22914,11128,8,3,4.74,14.22
+2020-09-10,125,"Pasta - Orzo, Dry",Roses,9404 Arizona Court,21756,19748,76,12,0.28,3.36
+2020-06-02,126,Sauce - Caesar Dressing,Family Dollar,47136 Sundown Avenue,71053,33317,46,12,1.68,20.16
+2020-11-28,127,Chicken - White Meat With Tender,Marshalls,13 Melody Avenue,22912,70948,16,12,0.96,11.52
+2020-07-06,128,"Yogurt - Raspberry, 175 Gr",Dollar Tree,805 Eggendart Plaza,21791,60649,62,3,2.24,6.72
+2017-10-19,129,Compound - Orange,Dd's Discounts,60609 Wayridge Junction,84969,67283,73,2,0.81,1.62
+2020-09-05,130,Calypso - Lemonade,Big Lots,947 Kingsford Parkway,22633,64054,94,2,0.22,0.44
+2020-07-06,131,Sesame Seed Black,Dollar Tree,83 South Place,21791,60649,62,7,2.26,15.82
+2019-07-18,132,"Pork - Bacon,back Peameal",HomeSense,943 South Drive,22728,46177,75,4,3.35,13.4
+2020-02-17,133,Allspice - Jamaican,Ollie's Bargain Outlet,23 Esch Center,37444,24513,77,5,0.71,3.55
+2018-06-11,134,Coffee Cup 12oz 5342cd,Bargain Hunt,517 David Park,21035,53350,36,2,3.35,6.7
+2017-12-08,135,Bread - Sour Batard,Meijer,9 Nelson Hill,22310,17272,41,9,0.81,7.29
+2020-06-02,136,Bandage - Fexible 1x3,Family Dollar,2 Harper Way,71053,33317,46,1,4.17,4.17
+2020-05-08,137,Seaweed Green Sheets,Five Below,83 Michigan Circle,22914,11128,8,6,2.28,13.68
+2020-09-05,138,Beef - Montreal Smoked Brisket,Big Lots,4 Hayes Crossing,22633,64054,94,1,4.59,4.59
+2018-11-08,139,Lemon Pepper,Shopko,72026 Evergreen Drive,22726,67126,26,11,0.68,7.48
+2019-04-07,140,Wine - Delicato Merlot,T.J. Maxx,73083 Darwin Park,10002,12844,72,4,1.14,4.56
+2020-06-23,141,"Juice - Orange, 341 Ml",Roses,1 Dakota Drive,21756,17660,94,11,2.74,30.14
+2020-06-02,142,Crab Brie In Phyllo,Family Dollar,05873 Dovetail Parkway,71053,33317,46,8,2.02,16.16
+2020-04-23,143,Muffin - Bran Ind Wrpd,BJ's Wholesale Club,2 Fairfield Court,84406,30276,46,11,0.39,4.29
+2018-03-06,144,Kellogs Special K Cereal,Gabe's,35 Evergreen Drive,22749,55429,79,4,2.52,10.08
+2018-01-24,145,Ecolab - Mikroklene 4/4 L,Kmart,81 Forest Run Hill,21724,12327,100,6,1.17,7.02
+2020-01-27,146,Cabbage - Nappa,Roses,0524 Anhalt Lane,21756,83048,10,7,0.12,0.84
+2020-05-05,147,Energy Drink Bawls,Ross Stores,44 Drewry Street,21754,31068,30,12,0.95,11.4
+2018-05-20,148,"Juice - Apple, 341 Ml",Dd's Discounts,0 Corscot Point,84969,37976,80,2,5.42,10.84
+2017-06-26,149,Paper - Brown Paper Mini Cups,HomeSense,15 Kipling Court,22728,13598,99,1,8.07,8.07
+2020-03-18,150,Cookies Almond Hazelnut,Bi-Mart,58468 Armistice Drive,21883,32393,17,1,0.43,0.43
+2018-05-20,151,"Chilli Paste, Ginger Garlic",Dd's Discounts,3 Burrows Crossing,84969,37976,80,12,0.34,4.08
+2020-06-02,152,Maple Syrup,Family Dollar,8 Mockingbird Court,71053,33317,46,4,4.31,17.24
+2017-01-31,153,Soup Campbells Beef With Veg,HomeGoods,14852 Jenna Avenue,22632,74432,77,1,1.98,1.98
+2020-05-05,154,Milk - Buttermilk,Ross Stores,8566 Clove Hill,21754,31068,30,9,2.25,20.25
+2020-01-14,155,"Soup - French Onion, Dry",Burlington Coat Factory,0200 Westport Circle,22745,31472,35,3,3.99,11.97
+2020-06-02,156,Chicken - Tenderloin,Family Dollar,260 Kinsman Street,71053,33317,46,11,1.91,21.01
+2020-12-16,157,Beer - Heinekin,Ben Franklin,12375 Almo Junction,84879,43353,51,6,0.28,1.68
+2018-04-22,158,Browning Caramel Glace,Big Lots,46 Schlimgen Hill,22633,81003,79,9,1.61,14.49
+2020-05-14,159,Tobasco Sauce,Bi-Mart,43 Spohn Crossing,21883,58719,82,12,0.51,6.12
+2018-04-22,160,Coffee - Decaffeinato Coffee,Big Lots,3440 Mcbride Court,22633,81003,79,3,7.15,21.45
+2017-04-18,161,Cheese - Brick With Pepper,Walmart,9630 Dahle Hill,21777,77422,27,3,1.31,3.93
+2018-03-21,162,Chip - Potato Dill Pickle,Stein Mart,68257 Bellgrove Way,22913,45653,80,9,1.92,17.28
+2017-10-15,163,Peppercorns - Green,Costco,1497 Cordelia Point,22752,44306,75,2,2.2,4.4
+2017-09-13,164,Island Oasis - Peach Daiquiri,Meijer,49695 Quincy Alley,22310,54972,43,8,0.7,5.6
+2020-11-22,165,Sage Derby,Ocean State Job Lot,84 Bellgrove Lane,84029,68757,75,3,4,12
+2020-09-29,166,"Pork - Bacon, Sliced",Target,17 Kim Circle,22622,18319,62,3,1.52,4.56
+2020-02-17,167,Goat - Whole Cut,Ollie's Bargain Outlet,00109 Forest Run Point,37444,24513,77,1,2.38,2.38
+2018-09-14,168,"Tart Shells - Sweet, 3",Gabe's,35736 Lukken Drive,22749,25211,68,1,5.61,5.61
+2017-06-14,169,Bay Leaf Fresh,Roses,76813 Hoffman Crossing,21756,81503,99,3,2.2,6.6
+2017-06-26,170,"Cheese - Brie,danish",HomeSense,688 Hanover Road,22728,13598,99,2,3.24,6.48
+2017-04-18,171,Longos - Cheese Tortellini,Walmart,2514 Summit Court,21777,77422,27,3,4.4,13.2
+2018-09-14,172,Sunflower Seed Raw,Gabe's,8 Milwaukee Way,22749,25211,68,7,2.23,15.61
+2018-06-11,173,Beef - Tenderloin Tails,Bargain Hunt,72321 Stuart Road,21035,53350,36,4,2.05,8.2
+2020-09-29,174,Paper Towel Touchless,Target,22 Mifflin Junction,22622,18319,62,3,2.63,7.89
+2020-12-16,175,Muffin Mix - Carrot,Ben Franklin,8425 Mandrake Point,84879,43353,51,11,0.34,3.74
+2017-06-14,176,Sambuca Cream,Roses,40477 Caliangt Center,21756,81503,99,11,0.1,1.1
+2017-03-05,177,Plasticforkblack,Renys,17793 Chinook Parkway,22748,32447,57,7,3.12,21.84
+2018-06-05,178,"Cheese - Brie,danish",T.J. Maxx,0124 Kingsford Hill,10002,39452,34,1,5.64,5.64
+2017-10-19,179,"Pasta - Detalini, White, Fresh",Tuesday Morning,26176 Acker Pass,21755,75438,50,1,2.11,2.11
+2018-03-07,180,Napkin White,Ocean State Job Lot,581 Buhler Parkway,84029,11051,26,7,2.14,14.98
+2017-04-18,181,Cup Translucent 9 Oz,Walmart,82167 Russell Junction,21777,77422,27,12,0.28,3.36
+2017-04-04,182,"Juice - Apple, 500 Ml",Family Dollar,1 Canary Center,71053,52553,22,1,4.15,4.15
+2020-12-16,183,Wine - Kwv Chenin Blanc South,Ben Franklin,6 Westend Plaza,84879,43353,51,11,1.56,17.16
+2020-02-17,184,"Beets - Candy Cane, Organic",Ollie's Bargain Outlet,4 Cascade Terrace,37444,24513,77,4,5.26,21.04
+2018-06-11,185,Table Cloth 54x72 Colour,Bargain Hunt,5 Autumn Leaf Pass,21035,53350,36,4,2.96,11.84
+2018-03-26,186,Flour - Teff,BJ's Wholesale Club,82 Trailsway Junction,84406,24938,69,3,0.51,1.53
+2018-11-08,187,Cheese - Pont Couvert,Shopko,3 Bashford Park,22726,67126,26,2,4.84,9.68
+2017-01-11,188,Chocolate Liqueur - Godet White,Burlington Coat Factory,65 Melvin Court,22745,17427,26,4,4.51,18.04
+2018-11-08,189,Brandy Cherry - Mcguinness,Shopko,417 Ilene Lane,22726,67126,26,1,3.05,3.05
+2018-11-08,190,"Lemonade - Island Tea, 591 Ml",Shopko,595 Sugar Street,22726,67126,26,1,1.07,1.07
+2020-02-17,191,Loquat,Ollie's Bargain Outlet,8 Vidon Place,37444,24513,77,10,0.19,1.9
+2017-04-18,192,Beer - Blue,Walmart,655 Union Center,21777,77422,27,1,3.33,3.33
+2019-02-11,193,"Mushroom - Morels, Dry",Dollar Tree,0 Merry Hill,21791,14487,6,9,1.23,11.07
+2017-06-14,194,Pears - Bartlett,Roses,13 Chinook Way,21756,81503,99,5,0.86,4.3
+2018-03-07,195,"Tart Shells - Sweet, 4",Ocean State Job Lot,3627 Elka Center,84029,11051,26,2,0.02,0.04
+2017-04-18,196,"Wine - Red, Black Opal Shiraz",Walmart,57004 Sauthoff Avenue,21777,77422,27,12,1.43,17.16
+2018-04-30,197,Yogurt - Assorted Pack,Renys,71593 Macpherson Way,22748,47696,91,10,1.74,17.4
+2017-01-02,198,Shark - Loin,Kmart,7022 Toban Crossing,21724,19320,27,1,1.49,1.49
+2017-10-15,199,Apricots - Dried,Costco,45038 Commercial Avenue,22752,44306,75,4,1.64,6.56
+2018-08-03,200,Scampi Tail,Five Below,68 Jenna Parkway,22914,41566,5,8,2.81,22.48
+2020-05-03,201,Kolrabi,Fred Meyer,223 Old Gate Trail,22727,80649,46,9,0.55,4.95
+2017-11-23,202,"Garlic - Primerba, Paste",Marshalls,79174 Eliot Plaza,22912,86551,61,9,1.78,16.02
+2017-05-23,203,"Pork - Tenderloin, Fresh",Tuesday Morning,5428 Judy Hill,21755,19106,78,5,1.59,7.95
+2020-02-17,204,"Soup - Knorr, Country Bean",Ollie's Bargain Outlet,33113 Arizona Avenue,37444,24513,77,7,0.54,3.78
+2019-03-24,205,Shichimi Togarashi Peppeers,Ocean State Job Lot,052 Di Loreto Circle,84029,62117,69,12,0.65,7.8
+2018-05-18,206,Shortbread - Cookie Crumbs,T.J. Maxx,308 Forest Run Pass,10002,24408,15,12,2.38,28.56
+2020-02-17,207,Shrimp - Tiger 21/25,Ollie's Bargain Outlet,303 Atwood Way,37444,24513,77,10,1.24,12.4
+2019-03-24,208,Ice Cream Bar - Drumstick,Ocean State Job Lot,86009 Summer Ridge Alley,84029,62117,69,8,2.39,19.12
+2020-02-17,209,Island Oasis - Ice Cream Mix,Ollie's Bargain Outlet,125 Lakewood Gardens Trail,37444,24513,77,1,0.31,0.31
+2019-05-26,210,Ice Cream Bar - Hagen Daz,Fred's,677 David Alley,21730,62113,7,9,1.34,12.06
+2017-06-14,211,Squash - Guords,Roses,2457 Northfield Circle,21756,81503,99,3,0.58,1.74
+2017-09-13,212,Tomato - Peeled Italian Canned,Meijer,16 Welch Avenue,22310,54972,43,1,1.64,1.64
+2019-12-26,213,Chips - Doritos,Shopko,09 Reindahl Drive,22726,17940,96,11,1.96,21.56
+2017-05-22,214,Nantucket - 518ml,HomeSense,56979 Goodland Court,22728,85066,19,10,0.43,4.3
+2020-06-01,215,Vinegar - Sherry,Bi-Mart,95 Clove Court,21883,29236,77,11,0.52,5.72
+2019-02-11,216,"Beets - Candy Cane, Organic",Dollar Tree,80659 Crownhardt Junction,21791,14487,6,11,1.02,11.22
+2019-08-08,217,"Tarragon - Primerba, Paste",Marshalls,35 Thackeray Road,22912,50438,82,2,1.32,2.64
+2018-03-26,218,Salt And Pepper Mix - White,BJ's Wholesale Club,8 Bobwhite Road,84406,24938,69,9,0.08,0.72
+2018-09-29,219,Whmis - Spray Bottle Trigger,Gabe's,4 Lerdahl Circle,22749,11273,37,12,1.58,18.96
+2017-02-04,220,Vodka - Moskovskaya,Burlington Coat Factory,2629 Pennsylvania Lane,22745,46097,26,7,3.01,21.07
+2020-09-12,221,Syrup - Monin - Granny Smith,Target,06038 Talisman Park,22622,61079,40,7,0.7,4.9
+2020-04-18,222,Muffin - Carrot Individual Wrap,Gordmans,60 Dennis Crossing,22623,79442,72,6,1.76,10.56
+2019-03-24,223,Mix Pina Colada,Ocean State Job Lot,14 Mariners Cove Alley,84029,62117,69,10,0.9,9
+2019-04-15,224,"Pasta - Spaghetti, Dry",Ben Franklin,8 Monica Alley,84879,21780,58,11,1.92,21.12
+2020-07-25,225,Cheese - Colby,Costco,084 Starling Crossing,22752,40360,84,3,4.8,14.4
+2019-05-25,226,"Veal - Brisket, Provimi,bnls",Stein Mart,8 Pleasure Drive,22913,78217,2,3,0.88,2.64
+2018-09-29,227,Wine - Clavet Saint Emilion,Gabe's,131 Everett Circle,22749,11273,37,5,1.59,7.95
+2019-01-01,228,Cake - Mini Potato Pancake,Big Lots,96660 Arapahoe Road,22633,15377,77,8,0.64,5.12
+2019-05-26,229,Chevril,Fred's,4844 Valley Edge Park,21730,62113,7,7,0.48,3.36
+2018-04-30,230,Peas Snow,Renys,9 Knutson Point,22748,47696,91,2,2.56,5.12
+2018-04-30,231,Pate Pans Yellow,Renys,935 Delladonna Way,22748,47696,91,11,1.76,19.36
+2019-01-23,232,Bread Base - Toscano,Ben Franklin,447 Barnett Place,84879,44941,66,12,0.6,7.2
+2018-11-08,233,"Pasta - Fusili, Dry",Bargain Hunt,4 Lawn Lane,21035,82024,89,7,0.3,2.1
+2018-05-18,234,Pork Ham Prager,T.J. Maxx,494 Artisan Junction,10002,24408,15,2,2.62,5.24
+2017-04-04,235,Sauce - Balsamic Viniagrette,Family Dollar,2 Sullivan Pass,71053,52553,22,3,0.18,0.54
+2017-08-11,236,"Mushrooms - Black, Dried",Fred Meyer,84 Aberg Crossing,22727,86904,78,7,0.47,3.29
+2020-08-30,237,Bread Bowl Plain,Stein Mart,9957 Gerald Alley,22913,86321,15,1,3.71,3.71
+2020-07-25,238,"Pepper - Green, Chili",Costco,0826 Sachs Way,22752,40360,84,3,6.95,20.85
+2017-04-04,239,Container - Foam Dixie 12 Oz,Family Dollar,9 Vahlen Pass,71053,52553,22,5,4.4,22
+2017-02-04,240,Lid - 3oz Med Rec,Burlington Coat Factory,7752 Barby Center,22745,46097,26,1,4.85,4.85
+2018-05-18,241,Tray - 16in Rnd Blk,T.J. Maxx,0 Montana Court,10002,24408,15,9,0.88,7.92
+2019-04-19,242,Extract - Raspberry,Harbor Freight Tools,1 Londonderry Park,22960,72790,9,7,0.93,6.51
+2019-01-01,243,Potato - Sweet,Big Lots,81811 Debra Pass,22633,15377,77,10,0.44,4.4
+2019-04-19,244,Goat - Whole Cut,Harbor Freight Tools,1 Fulton Hill,22960,72790,9,4,0.59,2.36
+2017-02-04,245,Coffee - Hazelnut Cream,Burlington Coat Factory,2 Express Pass,22745,46097,26,7,0.01,0.07
+2019-04-13,246,Yoplait - Strawbrasp Peac,HomeSense,6 3rd Junction,22728,58550,1,3,2.26,6.78
+2018-11-29,247,Veal - Leg,Five Below,22 Northland Plaza,22914,41427,33,5,2.24,11.2
+2020-06-21,248,Sultanas,Kmart,7330 John Wall Place,21724,18886,8,2,12.05,24.1
+2018-04-06,249,Cake - Pancake,National Stores,26 Straubel Hill,85123,27206,55,3,2.04,6.12
+2018-10-24,250,Chicken Thigh - Bone Out,Dd's Discounts,1 Grover Trail,84969,58125,32,11,1.43,15.73
+2018-11-29,251,Lettuce - Escarole,Five Below,55750 Village Way,22914,41427,33,5,0.86,4.3
+2019-04-19,252,"Carrots - Purple, Organic",Harbor Freight Tools,58626 Morning Pass,22960,72790,9,8,0.12,0.96
+2020-05-17,253,Hand Towel,Stein Mart,37754 La Follette Avenue,22913,53006,39,9,2.34,21.06
+2020-03-20,254,Sprouts - Brussel,Ross Stores,03 Debs Crossing,21754,52388,19,5,0.36,1.8
+2018-03-26,255,Beef - Prime Rib Aaa,BJ's Wholesale Club,904 Mockingbird Junction,84406,24938,69,10,0.86,8.6
+2019-12-26,256,Beef - Tenderloin - Aa,Shopko,613 Gerald Trail,22726,17940,96,8,0.81,6.48
+2019-10-25,257,Bonito Flakes - Toku Katsuo,National Stores,925 Pennsylvania Parkway,85123,86397,36,8,1.44,11.52
+2020-05-17,258,Bagel - Sesame Seed Presliced,Stein Mart,10 Burning Wood Parkway,22913,53006,39,5,0.76,3.8
+2017-12-17,259,Triple Sec - Mcguinness,Ben Franklin,06 Mcbride Junction,84879,56393,66,3,3.84,11.52
+2019-10-24,260,Wine - Cousino Macul Antiguas,Fred Meyer,50607 Schurz Junction,22727,43477,53,11,2.95,32.45
+2018-05-13,261,"Lentils - Green, Dry",Gabe's,5 Ohio Junction,22749,57224,62,2,0.32,0.64
+2018-05-18,262,Beef - Kobe Striploin,T.J. Maxx,7905 Eastwood Crossing,10002,24408,15,4,0.66,2.64
+2020-03-14,263,Lobster - Live,Marshalls,256 Grover Lane,22912,87571,11,5,0.57,2.85
+2019-10-25,264,"Wine - Magnotta - Red, Baco",National Stores,60899 Westport Way,85123,86397,36,7,0.98,6.86
+2020-06-21,265,Foil - 4oz Custard Cup,Kmart,70933 Heffernan Street,21724,18886,8,8,1.7,13.6
+2020-03-14,266,Ginger - Crystalized,Marshalls,4 Crownhardt Crossing,22912,87571,11,3,1.86,5.58
+2017-12-17,267,Eggwhite Frozen,Ben Franklin,462 Sunbrook Drive,84879,56393,66,6,1.68,10.08
+2020-07-25,268,Spice - Chili Powder Mexican,Costco,99 Evergreen Parkway,22752,40360,84,3,0.61,1.83
+2017-09-18,269,Sword Pick Asst,Dollar General,769 Meadow Ridge Junction,48187,55173,95,9,1.64,14.76
+2020-01-16,270,"Tarragon - Primerba, Paste",Renys,3 Upham Park,22748,33130,19,1,3.1,3.1
+2017-02-04,271,Butcher Twine 4r,Burlington Coat Factory,727 Goodland Center,22745,46097,26,2,1.53,3.06
+2017-11-13,272,"Wine - White, Riesling, Semi - Dry",Gordmans,73345 Briar Crest Point,22623,47747,18,2,4.18,8.36
+2020-06-21,273,Bread Base - Italian,Kmart,4 Derek Alley,21724,18886,8,12,0.19,2.28
+2018-08-31,274,Peas - Frozen,Target,0 Lakeland Junction,22622,42754,22,3,2.84,8.52
+2020-07-25,275,Tart - Lemon,Costco,50689 La Follette Alley,22752,40360,84,10,0.96,9.6
+2019-10-24,276,Coffee - Irish Cream,Fred Meyer,8407 Manitowish Alley,22727,43477,53,7,2.3,16.1
+2020-09-10,277,Kumquat,Walmart,1830 Forest Dale Parkway,21777,56615,48,5,1.98,9.9
+2018-05-18,278,Flower - Commercial Bronze,T.J. Maxx,2613 Shoshone Drive,10002,24408,15,1,0.43,0.43
+2020-06-21,279,Strawberries - California,Kmart,36 Brickson Park Hill,21724,18886,8,4,2.6,10.4
+2020-11-13,280,Wine - Magnotta - Cab Franc,Gabe's,09471 1st Circle,22749,76493,55,5,1.76,8.8
+2017-12-10,281,Foam Tray S2,Five Below,23 Doe Crossing Center,22914,54095,53,2,1.93,3.86
+2020-11-13,282,"Pork - Loin, Center Cut",Gabe's,6 Chinook Alley,22749,76493,55,12,1.13,13.56
+2020-09-05,283,Bread - Granary Small Pull,HomeSense,589 Norway Maple Park,22728,23385,38,7,0.17,1.19
+2020-11-13,284,Five Alive Citrus,Gabe's,175 Melby Terrace,22749,76493,55,3,0.21,0.63
+2017-01-13,285,Horseradish - Prepared,Dd's Discounts,87927 Riverside Parkway,84969,28762,96,6,3.17,19.02
+2020-02-12,286,Island Oasis - Ice Cream Mix,Walmart,881 Eagan Way,21777,44552,96,3,2.8,8.4
+2017-04-12,287,Veal - Bones,T.J. Maxx,31187 Maywood Trail,10002,74489,35,11,0.11,1.21
+2020-01-16,288,"Crab - Claws, Snow 16 - 24",Renys,93957 Kim Avenue,22748,33130,19,2,3.34,6.68
+2017-12-10,289,Gatorade - Lemon Lime,Five Below,9 Harbort Alley,22914,54095,53,5,2.33,11.65
+2017-02-04,290,"Jam - Raspberry,jar",Burlington Coat Factory,15 Pawling Alley,22745,46097,26,12,0.18,2.16
+2019-10-24,291,Lettuce - Curly Endive,Fred Meyer,31 Mcguire Road,22727,43477,53,9,0.14,1.26
+2017-05-27,292,"Quail - Whole, Boneless",National Stores,73 Mcbride Way,85123,13490,22,4,2.15,8.6
+2017-12-17,293,Ecolab Crystal Fusion,Ben Franklin,946 Waywood Pass,84879,56393,66,7,0.17,1.19
+2017-01-29,294,Shopper Bag - S - 4,Marshalls,59345 Dryden Court,22912,17825,61,9,0.52,4.68
+2018-03-26,295,Muffin - Bran Ind Wrpd,BJ's Wholesale Club,9616 6th Circle,84406,24938,69,4,0.39,1.56
+2020-11-13,296,"Sauce - White, Mix",Gabe's,02 Rieder Road,22749,76493,55,9,1.73,15.57
+2019-10-24,297,Marjoram - Fresh,Fred Meyer,5804 Summit Lane,22727,43477,53,1,4.89,4.89
+2019-10-24,298,Hog / Sausage Casing - Pork,Fred Meyer,019 Utah Pass,22727,43477,53,2,5.68,11.36
+2019-04-13,299,Kaffir Lime Leaves,Harbor Freight Tools,59902 Fisk Road,22960,34466,40,11,2.38,26.18
+2017-09-10,300,Beef - Kobe Striploin,Ross Stores,98 American Alley,21754,25456,33,11,0.89,9.79
+2019-07-10,301,Wheat - Soft Kernal Of Wheat,Dollar Tree,88 Almo Junction,21791,46844,39,3,3.35,10.05
+2017-12-17,302,Soap - Pine Sol Floor Cleaner,Ben Franklin,1879 Aberg Drive,84879,56393,66,8,1.65,13.2
+2018-03-02,303,Scallops - Live In Shell,Kmart,9 Melby Crossing,21724,69318,87,6,4.04,24.24
+2017-12-26,304,Rum - Mount Gay Eclipes,Meijer,3647 Hermina Road,22310,37829,82,12,0.89,10.68
+2020-04-09,305,"Oregano - Dry, Rubbed",Burlington Coat Factory,17985 Anderson Terrace,22745,54105,78,7,0.19,1.33
+2018-11-16,306,Cake - Night And Day Choclate,Ocean State Job Lot,05 Atwood Drive,84029,86869,2,10,2.71,27.1
+2020-02-17,307,Tomatoes,Ollie's Bargain Outlet,15 Mesta Alley,37444,24513,77,2,2.36,4.72
+2020-02-07,308,White Baguette,BJ's Wholesale Club,95130 Columbus Terrace,84406,29705,43,8,1.02,8.16
+2018-10-09,309,Vaccum Bag - 14x20,Fred's,8 Lunder Terrace,21730,40512,20,5,0.11,0.55
+2020-09-05,310,Vinegar - Raspberry,HomeSense,8072 Aberg Alley,22728,23385,38,1,1.48,1.48
+2017-05-27,311,Longos - Chicken Caeser Salad,National Stores,2183 Paget Terrace,85123,13490,22,12,2.19,26.28
+2020-09-05,312,"Jam - Strawberry, 20 Ml Jar",HomeSense,1 Del Mar Way,22728,23385,38,6,2.83,16.98
+2020-04-09,313,Wine - Merlot Vina Carmen,Burlington Coat Factory,2 Roth Park,22745,54105,78,8,2.72,21.76
+2017-12-10,314,"Oil - Olive, Extra Virgin",Five Below,795 Sloan Avenue,22914,54095,53,3,5.29,15.87
+2018-09-17,315,Table Cloth 90x90 Colour,HomeGoods,49989 Lerdahl Center,22632,45456,19,10,0.09,0.9
+2019-07-27,316,Cabbage - Green,Stein Mart,7774 Eliot Junction,22913,18010,45,8,1.94,15.52
+2020-04-09,317,Oil - Margarine,Burlington Coat Factory,2 Oak Circle,22745,54105,78,3,4.03,12.09
+2018-10-09,318,Glass Clear 7 Oz Xl,Fred's,2399 Artisan Junction,21730,40512,20,8,0.64,5.12
+2018-10-23,319,Oil - Safflower,Shopko,060 Merry Pass,22726,87800,56,10,2.22,22.2
+2018-10-27,320,Wine - Domaine Boyar Royal,Family Dollar,74 Aberg Trail,71053,23065,21,10,0.31,3.1
+2017-02-23,321,Pimento - Canned,Dollar General,28505 Farragut Way,48187,76443,37,7,0.4,2.8
+2019-05-15,322,Sauce - Sesame Thai Dressing,T.J. Maxx,36 Main Pass,10002,82628,58,11,2.37,26.07
+2019-07-27,323,Jerusalem Artichoke,Stein Mart,0966 Mayfield Street,22913,18010,45,12,1.38,16.56
+2019-05-15,324,Eggplant Oriental,T.J. Maxx,7480 Main Drive,10002,82628,58,6,0.32,1.92
+2020-02-27,325,Versatainer Nc - 888,Dd's Discounts,9609 Menomonie Lane,84969,58766,25,6,2.51,15.06
+2018-07-07,326,Juice - Orangina,Costco,7 Arapahoe Court,22752,73457,80,11,1.62,17.82
+2020-11-13,327,External Supplier,Gabe's,71705 Brown Alley,22749,76493,55,8,3.72,29.76
+2017-02-23,328,Pan Grease,Dollar General,79768 Hudson Terrace,48187,76443,37,9,1.25,11.25
+2020-04-09,329,Onions Granulated,Burlington Coat Factory,3 Hayes Court,22745,54105,78,9,2.07,18.63
+2020-11-13,330,Beets - Pickled,Gabe's,9270 2nd Way,22749,76493,55,12,2.42,29.04
+2018-08-28,331,Glass Clear 8 Oz,Ben Franklin,9449 Mallory Street,84879,41027,62,12,1.22,14.64
+2017-02-12,332,Beer - Maudite,Ollie's Bargain Outlet,22711 Shelley Park,37444,72760,90,3,1.91,5.73
+2019-12-02,333,Cleaner - Comet,Ross Stores,36 Little Fleur Lane,21754,62175,48,6,1.03,6.18
+2018-05-09,334,Goldschalger,Roses,63 Briar Crest Drive,21756,16885,90,1,6.67,6.67
+2020-04-10,335,Olives - Stuffed,Target,25 Toban Road,22622,26840,74,3,0.63,1.89
+2020-02-23,336,Bouillion - Fish,Tuesday Morning,66727 Dixon Street,21755,66642,35,9,2.02,18.18
+2018-10-23,337,Wine - Cousino Macul Antiguas,Shopko,0 Hallows Hill,22726,87800,56,2,5.25,10.5
+2020-06-01,338,Rosemary - Fresh,Ben Franklin,633 Arrowood Way,84879,39856,4,10,1.28,12.8
+2018-10-23,339,Brandy Apricot,Shopko,24 Oak Valley Alley,22726,87800,56,1,1.01,1.01
+2018-09-17,340,Thyme - Fresh,HomeGoods,32 Bluestem Park,22632,45456,19,8,0.82,6.56
+2020-03-02,341,Shrimp - Black Tiger 26/30,Stein Mart,8402 Luster Parkway,22913,60570,35,3,0.22,0.66
+2020-11-13,342,Longos - Burritos,Gabe's,799 Johnson Crossing,22749,76493,55,1,2.36,2.36
+2020-11-13,343,Beef - Tenderloin Tails,Gabe's,35426 Armistice Point,22749,76493,55,6,1.34,8.04
+2020-11-13,344,Honey - Liquid,Ross Stores,277 Loftsgordon Plaza,21754,78299,78,5,0.67,3.35
+2017-02-12,345,"Juice - Apple, 1.36l",Ollie's Bargain Outlet,8753 Autumn Leaf Circle,37444,72760,90,4,0.4,1.6
+2020-11-18,346,Plasticspoonblack,BJ's Wholesale Club,6 Green Junction,84406,88539,100,6,3.27,19.62
+2017-02-12,347,Ecolab - Hobart Upr Prewash Arm,Ollie's Bargain Outlet,7 Merchant Way,37444,72760,90,2,0.28,0.56
+2017-02-12,348,Cheese Cloth,Ollie's Bargain Outlet,038 Hovde Junction,37444,72760,90,12,1.88,22.56
+2017-02-12,349,Wooden Mop Handle,Ollie's Bargain Outlet,0 Truax Crossing,37444,72760,90,1,0.38,0.38
+2019-08-11,350,Herb Du Provence - Primerba,Bargain Hunt,28 Dennis Pass,21035,74873,33,12,1.61,19.32
+2017-01-02,351,Asparagus - Frozen,Dollar Tree,1 Fordem Way,21791,89826,16,10,0.29,2.9
+2018-09-19,352,Cotton Wet Mop 16 Oz,Harbor Freight Tools,4310 Hollow Ridge Street,22960,50118,90,5,0.36,1.8
+2018-02-14,353,Momiji Oroshi Chili Sauce,HomeSense,2 Calypso Park,22728,81407,21,9,2.9,26.1
+2018-10-09,354,Beer - Creemore,Fred's,710 Summerview Parkway,21730,40512,20,8,0.44,3.52
+2019-10-08,355,Table Cloth 62x114 White,Meijer,41 Scott Parkway,22310,87602,26,10,2.1,21
+2020-02-14,356,Sugar - Icing,Marshalls,6965 School Point,22912,23087,50,9,2.28,20.52
+2018-10-09,357,Sausage - Andouille,Fred's,05547 Mendota Plaza,21730,40512,20,5,3.43,17.15
+2020-11-18,358,Wine - Riesling Dr. Pauly,BJ's Wholesale Club,8 Redwing Way,84406,88539,100,3,2.55,7.65
+2020-09-01,359,Bread - Rye,Harbor Freight Tools,75 Haas Trail,22960,69973,14,10,1.9,19
+2017-06-21,360,Venison - Striploin,Ross Stores,22 Barby Point,21754,51187,73,1,2.1,2.1
+2019-05-15,361,Wine - Shiraz Wolf Blass Premium,T.J. Maxx,7908 Lukken Hill,10002,82628,58,8,0.87,6.96
+2020-06-01,362,Veal - Heart,Ben Franklin,22 Mariners Cove Crossing,84879,39856,4,9,0.26,2.34
+2019-11-11,363,Emulsifier,Walmart,51591 Morning Trail,21777,18915,88,7,1.86,13.02
+2020-02-14,364,Salami - Genova,Marshalls,3516 Bay Pass,22912,23087,50,11,1.9,20.9
+2018-10-09,365,Raspberries - Fresh,Fred's,0055 Annamark Terrace,21730,40512,20,12,0.54,6.48
+2017-05-06,366,Flavouring - Orange,Harbor Freight Tools,863 Rockefeller Park,22960,24533,73,12,1.71,20.52
+2019-08-05,367,Salmon - Fillets,Ocean State Job Lot,208 Barnett Junction,84029,45524,23,2,8.88,17.76
+2018-01-25,368,Lotus Leaves,Renys,10134 Luster Park,22748,20090,63,10,1.03,10.3
+2019-06-11,369,Cheese - Marble,Dd's Discounts,4309 Grayhawk Park,84969,26908,11,7,2.41,16.87
+2017-11-04,370,Red Currants,Gordmans,313 Transport Court,22623,87712,41,8,0.94,7.52
+2020-06-01,371,Pepper - Cubanelle,Ben Franklin,12 Northwestern Court,84879,39856,4,1,3.66,3.66
+2019-11-11,372,Melon - Honey Dew,Walmart,2 Texas Lane,21777,18915,88,3,0.81,2.43
+2018-10-27,373,Lemonade - Pineapple Passion,Family Dollar,91558 Dawn Parkway,71053,23065,21,7,0.65,4.55
+2018-08-22,374,Carrots - Jumbo,National Stores,5787 Dexter Hill,85123,27132,45,12,0.25,3
+2017-01-02,375,Arizona - Green Tea,Dollar Tree,5193 Moland Hill,21791,89826,16,2,3.02,6.04
+2017-08-15,376,Spic And Span All Purpose,Meijer,26030 Green Lane,22310,27563,3,3,1.12,3.36
+2019-11-11,377,Steamers White,Walmart,47909 John Wall Avenue,21777,18915,88,2,1.62,3.24
+2018-10-09,378,"Yogurt - Cherry, 175 Gr",Fred's,7 Moland Avenue,21730,40512,20,4,2.46,9.84
+2019-10-28,379,Crackers - Soda / Saltins,Roses,4891 School Trail,21756,21598,78,10,0.47,4.7
+2017-02-19,380,Sauce - Fish 25 Ozf Bottle,Costco,3 Arapahoe Avenue,22752,31554,88,11,0.65,7.15
+2020-03-02,381,Cream - 10%,Stein Mart,545 Division Point,22913,60570,35,3,0.75,2.25
+2017-02-19,382,"Beef - Bones, Marrow",Costco,24 Florence Terrace,22752,31554,88,12,2.34,28.08
+2018-02-27,383,Cotton Wet Mop 16 Oz,Ross Stores,4193 Clove Crossing,21754,62883,49,12,0.73,8.76
+2020-06-01,384,Pork - Smoked Back Bacon,Ben Franklin,88 Sunfield Trail,84879,39856,4,7,2.05,14.35
+2020-06-01,385,Wine - Montecillo Rioja Crianza,Ben Franklin,0 Bartelt Point,84879,39856,4,2,0.82,1.64
+2020-11-13,386,Cream - 35%,Gabe's,10155 Mifflin Center,22749,76493,55,8,0.75,6
+2017-12-30,387,Cardamon Seed / Pod,Harbor Freight Tools,7356 South Drive,22960,84225,24,8,1.16,9.28
+2019-05-15,388,Chutney Sauce,T.J. Maxx,0 North Place,10002,82628,58,1,2.72,2.72
+2019-05-15,389,"Squash - Pattypan, Yellow",T.J. Maxx,9152 Fremont Alley,10002,82628,58,12,0.17,2.04
+2017-01-02,390,"Pork - Back, Long Cut, Boneless",Dollar Tree,586 Ruskin Park,21791,89826,16,6,2.92,17.52
+2018-01-05,391,Ice Cream - Fudge Bars,Family Dollar,9773 Glacier Hill Terrace,71053,15668,62,11,1.2,13.2
+2018-10-09,392,"Pepper - Green, Chili",Fred's,04 Sheridan Street,21730,40512,20,11,1.41,15.51
+2019-11-11,393,Chivas Regal - 12 Year Old,Walmart,25 Corscot Road,21777,18915,88,10,0.42,4.2
+2018-01-05,394,Gingerale - Diet - Schweppes,Family Dollar,4 South Road,71053,15668,62,5,1.01,5.05
+2019-06-19,395,Onions - Cooking,Five Below,1 Barby Way,22914,30728,86,8,0.96,7.68
+2018-02-14,396,Wine - Chateau Aqueria Tavel,HomeGoods,542 Browning Place,22632,15574,95,6,1.95,11.7
+2018-03-24,397,"Yogurt - Banana, 175 Gr",Roses,11 Bellgrove Junction,21756,88032,86,10,1.44,14.4
+2017-02-23,398,Dried Figs,Dollar General,9680 Ronald Regan Hill,48187,76443,37,8,1.76,14.08
+2020-11-18,399,Lamb Leg - Bone - In Nz,Target,5 Armistice Hill,22622,84279,80,2,6.81,13.62
+2017-02-23,400,Lettuce - Baby Salad Greens,Dollar General,56 Trailsway Place,48187,76443,37,5,0.39,1.95
+2017-11-15,401,Cheese - Mozzarella,Kmart,608 Pennsylvania Crossing,21724,20889,9,9,1.05,9.45
+2017-02-12,402,Bagel - Sesame Seed Presliced,Ollie's Bargain Outlet,75 Rieder Avenue,37444,72760,90,7,1.93,13.51
+2018-01-05,403,"Lemonade - Black Cherry, 591 Ml",Family Dollar,0 Spenser Road,71053,15668,62,2,0.76,1.52
+2019-08-20,404,Coffee Cup 16oz Foam,Fred Meyer,23 Beilfuss Street,22727,87028,87,2,2.51,5.02
+2018-01-05,405,"Juice - Clamato, 341 Ml",Family Dollar,0 Bartillon Pass,71053,15668,62,7,2.1,14.7
+2017-09-06,406,Bread - Multigrain,Meijer,31 Upham Park,22310,81967,53,10,1.9,19
+2019-11-11,407,Beer - Mill St Organic,Walmart,1062 Brickson Park Pass,21777,18915,88,7,2.33,16.31
+2019-12-25,408,Olives - Kalamata,HomeSense,47 Garrison Drive,22728,68331,76,10,2.21,22.1
+2017-02-23,409,"Lamb - Loin, Trimmed, Boneless",Dollar General,560 Sunbrook Place,48187,76443,37,7,1.04,7.28
+2020-06-01,410,Oil - Avocado,Ben Franklin,6634 6th Street,84879,39856,4,10,1.16,11.6
+2019-11-11,411,"Cake Circle, Foil, Scallop",Walmart,53066 Sycamore Pass,21777,18915,88,12,0.62,7.44
+2017-02-09,412,Table Cloth 54x72 Colour,Burlington Coat Factory,12 Jana Point,22745,25153,58,2,4.8,9.6
+2017-11-01,413,Pepper - Chili Powder,Bi-Mart,5 Merrick Way,21883,36400,100,8,2.05,16.4
+2017-08-03,414,Beans - French,Costco,3 South Park,22752,88306,49,1,0.43,0.43
+2017-02-09,415,Guava,Burlington Coat Factory,76 Golden Leaf Trail,22745,25153,58,9,1.65,14.85
+2017-11-15,416,Curry Powder,Kmart,6877 Hooker Hill,21724,20889,9,1,2.5,2.5
+2020-06-01,417,Wine - Montecillo Rioja Crianza,Ben Franklin,88110 Walton Street,84879,39856,4,1,2.13,2.13
+2020-08-09,418,Rice - Aborio,Gordmans,521 Pierstorff Pass,22623,44191,6,2,0.92,1.84
+2017-11-22,419,"Potatoes - Instant, Mashed",Shopko,7537 Maywood Place,22726,78349,43,7,1.27,8.89
+2017-11-15,420,"Lamb - Whole Head Off,nz",Kmart,6423 Vahlen Court,21724,20889,9,3,2.24,6.72
+2020-10-22,421,Bacardi Limon,Marshalls,4633 Marquette Way,22912,76036,71,9,1.15,10.35
+2017-02-23,422,Devonshire Cream,Dollar General,01 Brickson Park Center,48187,76443,37,11,3.02,33.22
+2017-02-23,423,Country Roll,Dollar General,21952 Hagan Alley,48187,76443,37,1,1.01,1.01
+2018-09-12,424,"Coke - Classic, 355 Ml",Ocean State Job Lot,8 Westerfield Hill,84029,71907,3,11,0.09,0.99
+2018-04-17,425,Sauce - Hp,Fred's,211 Hovde Terrace,21730,71293,18,6,1.52,9.12
+2017-04-04,426,Table Cloth 144x90 White,National Stores,4 Fallview Trail,85123,88078,38,10,1.75,17.5
+2018-10-02,427,Eggplant Oriental,T.J. Maxx,9 Morningstar Crossing,10002,18596,84,8,2.33,18.64
+2019-11-11,428,Lettuce - Boston Bib - Organic,Walmart,7 Mayfield Crossing,21777,18915,88,6,1.47,8.82
+2017-04-30,429,Black Currants,Five Below,496 Heffernan Park,22914,54076,59,5,4.53,22.65
+2020-11-15,430,Wine - Fume Blanc Fetzer,Marshalls,3 Trailsway Trail,22912,42839,5,11,2.74,30.14
+2018-02-27,431,Mustard - Seed,Ross Stores,8 Roxbury Parkway,21754,62883,49,7,1.72,12.04
+2017-11-15,432,"Stock - Chicken, White",Kmart,8 Burrows Circle,21724,20889,9,5,0.48,2.4
+2017-05-02,433,"Quail - Whole, Bone - In",Roses,00 Clemons Street,21756,35222,51,4,1.63,6.52
+2020-06-01,434,"Placemat - Scallop, White",Ben Franklin,693 Shasta Center,84879,39856,4,12,1.18,14.16
+2020-08-09,435,Remy Red Berry Infusion,Gordmans,2474 Upham Plaza,22623,44191,6,1,2.93,2.93
+2017-02-23,436,Eggroll,Dollar General,590 Cottonwood Park,48187,76443,37,9,0.65,5.85
+2020-06-01,437,Beans - Green,Ben Franklin,66509 Porter Hill,84879,39856,4,1,0.71,0.71
+2020-11-13,438,Bagel - Sesame Seed Presliced,Gabe's,23 American Circle,22749,76493,55,10,1.95,19.5
+2018-02-17,439,Lamb - Sausage Casings,Dollar Tree,52658 Doe Crossing Crossing,21791,46008,93,5,2.96,14.8
+2019-01-06,440,Clams - Canned,Kmart,6742 Lillian Center,21724,60473,61,5,0.51,2.55
+2019-11-11,441,Vector Energy Bar,Walmart,329 Blackbird Crossing,21777,18915,88,2,0.96,1.92
+2019-06-08,442,Chutney Sauce,Bargain Hunt,51 Twin Pines Point,21035,75625,35,7,3.26,22.82
+2017-11-22,443,Crackers - Water,Shopko,8710 Lillian Point,22726,78349,43,8,0.42,3.36
+2019-01-06,444,Gherkin,Kmart,070 Thierer Alley,21724,60473,61,8,0.25,2
+2017-01-05,445,"Nut - Hazelnut, Ground, Natural",T.J. Maxx,69567 Loomis Plaza,10002,35826,40,3,4.06,12.18
+2017-09-20,446,Flower - Leather Leaf Fern,Dd's Discounts,4763 Northport Center,84969,32315,60,10,1.56,15.6
+2020-11-03,447,Onion Powder,Ross Stores,591 Continental Drive,21754,63823,29,3,1.61,4.83
+2020-08-09,448,"Turkey - Breast, Double",Gordmans,4 Elka Street,22623,44191,6,3,0.61,1.83
+2020-12-20,449,Flour - Semolina,Five Below,8 Boyd Court,22914,82707,61,2,2.3,4.6
+2020-08-31,450,"Bread - Roll, Canadian Dinner",Ollie's Bargain Outlet,25 Scoville Crossing,37444,85000,93,8,0.82,6.56
+2018-02-01,451,"Pail - 4l White, With Handle",Costco,10025 Kenwood Park,22752,32693,43,12,1.36,16.32
+2020-11-13,452,Breadfruit,Gabe's,6 Glendale Terrace,22749,76493,55,5,3.04,15.2
+2020-08-09,453,Tomato Paste,Gordmans,6339 Village Green Street,22623,44191,6,1,2.84,2.84
+2020-07-24,454,Cumin - Ground,Family Dollar,476 Sauthoff Park,71053,36329,37,10,1.8,18
+2020-06-01,455,"Juice - Grape, White",Ben Franklin,743 Continental Terrace,84879,39856,4,3,2.06,6.18
+2018-06-02,456,Pastry - Chocolate Chip Muffin,Burlington Coat Factory,7 Mallard Pass,22745,73078,72,6,2.17,13.02
+2019-04-04,457,Lettuce - Belgian Endive,Walmart,7140 Springview Pass,21777,32965,35,9,2.04,18.36
+2019-07-21,458,Five Alive Citrus,Harbor Freight Tools,79408 Grover Drive,22960,63656,90,10,1.75,17.5
+2019-06-25,459,Vol Au Vents,Meijer,74 Dryden Trail,22310,81349,32,10,0.35,3.5
+2020-02-05,460,"Wine - White, Ej",Bargain Hunt,2183 Ryan Avenue,21035,78026,76,11,0.99,10.89
+2020-11-18,461,Soup - Tomato Mush. Florentine,Renys,6814 Corscot Park,22748,50698,5,5,2.77,13.85
+2017-05-02,462,Sambuca Cream,Roses,1 Drewry Crossing,21756,35222,51,10,1.66,16.6
+2020-06-01,463,"Veal - Chops, Split, Frenched",Ben Franklin,51695 Northland Court,84879,39856,4,12,0.09,1.08
+2020-11-18,464,Vinegar - Cider,Renys,304 Charing Cross Park,22748,50698,5,2,1.29,2.58
+2018-12-20,465,Daikon Radish,Dollar Tree,6 Portage Lane,21791,74127,93,10,2.46,24.6
+2019-04-04,466,Ginger - Ground,Walmart,0855 Eagan Lane,21777,32965,35,8,1.27,10.16
+2020-11-18,467,Squid - U - 10 Thailand,Renys,93 Meadow Ridge Lane,22748,50698,5,5,0.51,2.55
+2020-02-05,468,Wine - Baron De Rothschild,Bargain Hunt,48292 Stoughton Avenue,21035,78026,76,11,2.86,31.46
+2017-11-22,469,Samosa - Veg,Shopko,704 Garrison Road,22726,78349,43,4,0.46,1.84
+2018-12-20,470,"Orange - Canned, Mandarin",Dollar Tree,4 Kedzie Parkway,21791,74127,93,4,0.76,3.04
+2018-01-30,471,Pastry - Choclate Baked,BJ's Wholesale Club,98 Monterey Drive,84406,71685,55,3,0.02,0.06
+2020-06-01,472,Parsley Italian - Fresh,Ben Franklin,2 Summit Terrace,84879,39856,4,1,4.77,4.77
+2017-03-21,473,Bacardi Raspberry,Fred's,551 Nancy Way,21730,54277,14,1,4.43,4.43
+2017-01-05,474,"Cheese - Cheddar, Old White",T.J. Maxx,1 Schmedeman Crossing,10002,35826,40,2,0.19,0.38
+2020-12-20,475,Towel Dispenser,Five Below,59 Westridge Hill,22914,82707,61,5,1.59,7.95
+2018-06-26,476,Beer - Creemore,Tuesday Morning,6 Comanche Place,21755,74363,55,9,0.73,6.57
+2020-02-13,477,Spice - Paprika,Bargain Hunt,197 Mayer Avenue,21035,65021,17,5,0.82,4.1
+2020-11-18,478,"Tendrils - Baby Pea, Organic",Renys,173 Riverside Pass,22748,50698,5,6,0.05,0.3
+2018-06-26,479,"Iced Tea - Lemon, 460 Ml",Tuesday Morning,5 Cottonwood Crossing,21755,74363,55,9,0.6,5.4
+2020-11-13,480,Oil - Grapeseed Oil,Gabe's,36 Homewood Trail,22749,76493,55,5,4.13,20.65
+2018-05-30,481,Lambcasing,HomeSense,057 Vernon Plaza,22728,81119,46,4,0.5,2
+2018-09-12,482,Eggplant Italian,Ocean State Job Lot,2 Iowa Avenue,84029,71907,3,6,0.8,4.8
+2018-02-14,483,Tea - Green,HomeGoods,10883 West Way,22632,15574,95,3,1.24,3.72
+2020-04-13,484,Potatoes - Mini Red,Dollar General,3798 Homewood Park,48187,73608,23,7,3.27,22.89
+2018-09-12,485,Wine - Dubouef Macon - Villages,Ocean State Job Lot,76237 Lien Center,84029,71907,3,6,2.24,13.44
+2020-10-24,486,Ginger - Fresh,Dd's Discounts,548 Jana Terrace,84969,39490,14,10,0.71,7.1
+2018-09-12,487,"Trout - Rainbow, Frozen",Ocean State Job Lot,0 Cambridge Trail,84029,71907,3,3,2.59,7.77
+2019-02-23,488,Wine - Riesling Dr. Pauly,Ben Franklin,05700 Eagle Crest Circle,84879,48593,19,12,0.36,4.32
+2020-11-21,489,Oil - Olive Bertolli,Fred Meyer,51 Springview Plaza,22727,28386,26,12,1.73,20.76
+2020-08-28,490,Banana - Green,Roses,05870 Hintze Circle,21756,67475,96,8,1.11,8.88
+2020-04-24,491,"Halibut - Whole, Fresh",Family Dollar,7535 Dawn Road,71053,35463,1,1,1.22,1.22
+2018-05-16,492,Ham - Procutinni,Ollie's Bargain Outlet,81 Petterle Trail,37444,67788,78,4,1.71,6.84
+2020-07-29,493,Beer - Pilsner Urquell,Dollar Tree,7311 Southridge Avenue,21791,44794,32,12,1.1,13.2
+2018-03-11,494,Bag - Regular Kraft 20 Lb,National Stores,4 Dixon Junction,85123,84502,83,11,1.19,13.09
+2020-10-24,495,Lamb - Rack,Dd's Discounts,67754 Fallview Junction,84969,39490,14,10,1.11,11.1
+2018-06-02,496,Cup - 8oz Coffee Perforated,Burlington Coat Factory,1 Alpine Avenue,22745,73078,72,10,1.3,13
+2019-07-09,497,Mushroom - Crimini,Target,1737 Hudson Hill,22622,19119,40,9,2.02,18.18
+2020-01-21,498,Wine - Balbach Riverside,Ross Stores,82744 Bonner Terrace,21754,32695,10,4,0.55,2.2
+2018-10-11,499,French Kiss Vanilla,Renys,34927 Algoma Point,22748,31843,29,12,2.25,27
+2017-01-27,500,Tea - Vanilla Chai,Marshalls,26230 Nova Hill,22912,50917,25,3,0.11,0.33
+2018-12-16,501,"Beef - Outside, Round",Meijer,0969 Menomonie Drive,22310,67616,78,8,1.65,13.2
+2020-01-21,502,Milk - Buttermilk,Ross Stores,900 Johnson Terrace,21754,32695,10,2,2.94,5.88
+2019-09-10,503,Dasheen,Tuesday Morning,7 Westend Circle,21755,68033,88,1,1.45,1.45
+2018-12-16,504,Chef Hat 25cm,Meijer,9327 Eastwood Avenue,22310,67616,78,10,0.65,6.5
+2020-04-24,505,Daves Island Stinger,Family Dollar,2 Clyde Gallagher Street,71053,35463,1,4,1.62,6.48
+2020-08-28,506,Compound - Pear,Roses,88 Stephen Terrace,21756,67475,96,2,4.54,9.08
+2020-11-21,507,Momiji Oroshi Chili Sauce,Fred Meyer,60 Magdeline Plaza,22727,28386,26,7,2.47,17.29
+2018-12-16,508,Compound - Raspberry,Meijer,6 Dwight Way,22310,67616,78,6,1.96,11.76
+2020-02-11,509,"Nut - Almond, Blanched, Ground",Ross Stores,95 Mccormick Center,21754,70818,95,9,1.87,16.83
+2018-07-29,510,Blackberries,National Stores,9 Spaight Road,85123,35286,93,12,1.07,12.84
+2019-11-30,511,Puree - Strawberry,Walmart,985 West Road,21777,11166,4,5,3.55,17.75
+2018-10-11,512,Gloves - Goldtouch Disposable,Renys,59 8th Lane,22748,31843,29,9,1.28,11.52
+2020-08-31,513,"Lamb - Whole, Frozen",Ocean State Job Lot,67664 Atwood Court,84029,57001,97,6,0.63,3.78
+2020-05-24,514,Canada Dry,T.J. Maxx,6 Stang Circle,10002,42560,52,10,0.77,7.7
+2018-07-05,515,Tumeric,Marshalls,2076 Esch Avenue,22912,17400,21,6,2.29,13.74
+2019-11-30,516,Lotus Rootlets - Canned,Walmart,4 Anniversary Plaza,21777,11166,4,3,0.34,1.02
+2019-12-08,517,"Turkey - Breast, Double",Bargain Hunt,46 Myrtle Pass,21035,66905,59,7,1.5,10.5
+2018-11-12,518,Fruit Salad Deluxe,Five Below,0 Fairview Junction,22914,41986,64,2,0.5,1
+2017-02-04,519,Wine - Ej Gallo Sierra Valley,HomeSense,994 Monument Junction,22728,49592,28,1,0.97,0.97
+2018-12-16,520,Fond - Neutral,Meijer,058 Fairfield Place,22310,67616,78,5,2.01,10.05
+2018-06-29,521,Veal - Kidney,Shopko,6 Summit Avenue,22726,15400,46,1,2.38,2.38
+2019-12-05,522,"Beets - Candy Cane, Organic",Kmart,8 Hoard Point,21724,37368,37,6,0.63,3.78
+2018-11-12,523,Appetizer - Tarragon Chicken,Five Below,680 Ramsey Road,22914,41986,64,3,3.62,10.86
+2017-01-13,524,Garbage Bags - Black,Family Dollar,81 Corscot Avenue,71053,25033,51,12,1.34,16.08
+2020-08-31,525,Horseradish Root,Ocean State Job Lot,5 Pankratz Way,84029,57001,97,12,1.5,18
+2019-08-29,526,Beef Ground Medium,HomeGoods,38 Leroy Park,22632,79710,9,11,0.16,1.76
+2018-11-12,527,Water - Spring 1.5lit,Five Below,55 Hoepker Road,22914,41986,64,5,1.54,7.7
+2017-04-16,528,Cumin - Whole,Marshalls,84326 Texas Parkway,22912,64499,25,7,0.52,3.64
+2017-04-16,529,Compound - Passion Fruit,Marshalls,53 Mitchell Way,22912,64499,25,6,3.19,19.14
+2017-08-27,530,"Pepper - Green, Chili",Renys,7484 Valley Edge Way,22748,16077,20,2,3.76,7.52
+2017-01-27,531,Soup - Campbells - Tomato,Stein Mart,8946 Crescent Oaks Center,22913,42909,100,3,0.11,0.33
+2017-10-09,532,Crab - Soft Shell,Dollar Tree,70523 Dixon Parkway,21791,28723,14,6,2.45,14.7
+2017-04-16,533,Wine - Red Oakridge Merlot,Marshalls,47963 Bartelt Point,22912,64499,25,5,2.15,10.75
+2020-02-11,534,Pepper - Pablano,Ross Stores,70990 Oxford Crossing,21754,70818,95,10,0.49,4.9
+2018-04-28,535,Yams,Ollie's Bargain Outlet,818 Farwell Trail,37444,82963,11,12,0.39,4.68
+2017-02-04,536,"Crab - Back Fin Meat, Canned",HomeSense,4489 Heath Alley,22728,49592,28,6,4.06,24.36
+2018-06-09,537,Beer - Paulaner Hefeweisse,Big Lots,0462 Iowa Lane,22633,58278,27,5,3.43,17.15
+2019-07-21,538,Chicken - Soup Base,Harbor Freight Tools,632 Petterle Junction,22960,63656,90,10,1.47,14.7
+2018-12-17,539,Poppy Seed,Ben Franklin,997 Dunning Way,84879,69293,5,7,0.49,3.43
+2020-02-11,540,Table Cloth 90x90 Colour,Ross Stores,38 Lakewood Gardens Hill,21754,70818,95,1,0.09,0.09
+2018-06-09,541,Pork - Backfat,Big Lots,351 Pawling Hill,22633,58278,27,12,1.93,23.16
+2017-11-28,542,"Squash - Pattypan, Yellow",Gordmans,5169 Waywood Court,22623,56775,82,3,1.1,3.3
+2018-12-19,543,"Beef - Baby, Liver",Stein Mart,63 Marcy Crossing,22913,45196,20,12,0.07,0.84
+2017-11-28,544,Roe - White Fish,Gordmans,2386 Raven Junction,22623,56775,82,11,0.08,0.88
+2020-07-02,545,Cheese - Sheep Milk,Harbor Freight Tools,83 Melrose Terrace,22960,56022,95,7,0.3,2.1
+2018-12-16,546,"Sauce - White, Mix",Meijer,51152 Independence Alley,22310,67616,78,1,1.73,1.73
+2019-04-16,547,Praline Paste,Costco,4 Gale Drive,22752,24681,57,3,0.67,2.01
+2018-07-13,548,Wine - Zinfandel Rosenblum,Fred's,62920 Kings Lane,21730,30365,55,4,5.41,21.64
+2018-11-12,549,Muffin Carrot - Individual,Five Below,0 Starling Pass,22914,41986,64,5,0.26,1.3
+2019-02-26,550,Chocolate Bar - Coffee Crisp,Family Dollar,04830 Sloan Way,71053,27087,42,5,3.46,17.3
+2019-04-16,551,Cleaner - Bleach,Costco,27 Menomonie Hill,22752,24681,57,4,0.26,1.04
+2017-08-27,552,Cheese - Comte,Renys,678 Evergreen Lane,22748,16077,20,12,2.01,24.12
+2020-04-22,553,Fruit Mix - Light,T.J. Maxx,0385 Rockefeller Plaza,10002,58132,14,9,0.6,5.4
+2018-11-12,554,"Pasta - Gnocchi, Potato",Five Below,10759 Homewood Avenue,22914,41986,64,6,2.41,14.46
+2018-04-28,555,"Veal - Tenderloin, Untrimmed",Ollie's Bargain Outlet,730 Buell Way,37444,82963,11,10,1.61,16.1
+2019-01-13,556,Pie Filling - Pumpkin,Burlington Coat Factory,14 Lotheville Avenue,22745,50911,43,12,2.72,32.64
+2018-12-17,557,Sorrel - Fresh,Ben Franklin,8435 Tony Place,84879,69293,5,7,2.65,18.55
+2020-08-31,558,Eggplant - Baby,Ocean State Job Lot,35 Division Park,84029,57001,97,3,3.26,9.78
+2018-04-28,559,Pork - Side Ribs,Ollie's Bargain Outlet,84871 Union Crossing,37444,82963,11,9,0.91,8.19
+2020-02-11,560,Wine - Marlbourough Sauv Blanc,Ross Stores,686 Swallow Terrace,21754,70818,95,10,1.47,14.7
+2019-11-30,561,Pepper - Sorrano,Walmart,81058 Goodland Place,21777,11166,4,2,1.54,3.08
+2020-09-18,562,Liners - Baking Cups,Gabe's,32 Dunning Circle,22749,45987,69,6,0.56,3.36
+2020-10-11,563,Coffee - French Vanilla Frothy,Bi-Mart,29216 Fisk Place,21883,62706,38,1,5.95,5.95
+2019-04-16,564,"Water - Mineral, Carbonated",Costco,80622 Center Drive,22752,24681,57,2,5.15,10.3
+2018-07-29,565,Cup Translucent 9 Oz,National Stores,96 Marquette Court,85123,35286,93,12,1.32,15.84
+2019-01-13,566,Mini - Vol Au Vents,Burlington Coat Factory,6172 Pennsylvania Park,22745,50911,43,3,1.91,5.73
+2018-12-17,567,Raspberries - Fresh,Ben Franklin,34790 Menomonie Place,84879,69293,5,11,0.96,10.56
+2018-07-11,568,Parsley - Dried,Tuesday Morning,3332 Oxford Park,21755,22414,5,4,6.05,24.2
+2017-04-29,569,"Cake Circle, Paprus",Big Lots,7756 Bay Street,22633,21381,93,10,0.14,1.4
+2020-04-22,570,"Sauce - Gravy, Au Jus, Mix",T.J. Maxx,3 Hollow Ridge Court,10002,58132,14,6,2.52,15.12
+2018-06-29,571,Juice - Orangina,Shopko,49 Mockingbird Drive,22726,15400,46,7,1.75,12.25
+2019-04-16,572,Chinese Foods - Plain Fried Rice,Costco,747 Basil Pass,22752,24681,57,1,2.71,2.71
+2017-02-04,573,Mangoes,HomeSense,8 Nobel Avenue,22728,49592,28,5,2.42,12.1
+2020-04-20,574,Smoked Paprika,Kmart,65 Daystar Court,21724,29442,66,9,2.27,20.43
+2019-01-13,575,Cookies - Assorted,Burlington Coat Factory,04 Superior Junction,22745,50911,43,4,1.75,7
+2018-04-16,576,Vanilla Beans,Dd's Discounts,68 Tennyson Place,84969,80837,52,12,0.97,11.64
+2018-12-17,577,Jack Daniels,Ben Franklin,90992 Forest Drive,84879,69293,5,1,2.38,2.38
+2017-09-27,578,Cocoa Powder - Natural,Harbor Freight Tools,61 Corscot Alley,22960,86782,36,12,0.99,11.88
+2020-09-18,579,Appetizer - Mango Chevre,Gabe's,4 Debra Court,22749,45987,69,1,1.08,1.08
+2019-11-08,580,"Veal - Inside Round / Top, Lean",Fred's,3 Laurel Terrace,21730,43743,26,9,0.76,6.84
+2018-04-16,581,Island Oasis - Lemonade,Dd's Discounts,256 Vera Terrace,84969,80837,52,9,0.19,1.71
+2017-02-04,582,Kumquat,HomeSense,78595 Southridge Drive,22728,49592,28,2,4.08,8.16
+2018-06-29,583,Smoked Paprika,Shopko,915 Crowley Circle,22726,15400,46,12,1.08,12.96
+2019-08-29,584,"Doilies - 12, Paper",HomeGoods,68 Hoffman Park,22632,79710,9,12,0.04,0.48
+2019-11-26,585,Shopper Bag - S - 4,Fred's,57 Gerald Street,21730,56289,22,11,2.1,23.1
+2017-01-04,586,"Sugar - Sweet N Low, Individual",Bargain Hunt,1642 Mccormick Trail,21035,17140,97,6,4.03,24.18
+2018-05-13,587,Shiratamako - Rice Flour,Marshalls,5 Moulton Junction,22912,30193,29,12,2.33,27.96
+2018-07-11,588,Wine - Tio Pepe Sherry Fino,Tuesday Morning,326 Waubesa Alley,21755,22414,5,8,3.93,31.44
+2017-04-29,589,"Chicken - Thigh, Bone In",Big Lots,2282 Waxwing Point,22633,21381,93,8,0.14,1.12
+2018-01-31,590,Wine - Wyndham Estate Bin 777,Bi-Mart,718 Merchant Center,21883,66343,63,12,0.03,0.36
+2019-01-13,591,Muffin Orange Individual,Burlington Coat Factory,23 Novick Crossing,22745,50911,43,6,3.99,23.94
+2020-04-04,592,Vol Au Vents,Dollar Tree,6 Commercial Trail,21791,34668,82,12,0.98,11.76
+2017-12-05,593,Ice Cream - Strawberry,Roses,96 Gateway Parkway,21756,56511,97,11,2.18,23.98
+2018-04-16,594,"Appetizer - Mini Egg Roll, Shrimp",Dd's Discounts,8613 Arapahoe Terrace,84969,80837,52,3,1.76,5.28
+2018-11-24,595,Chicken - Wieners,Walmart,0 Cambridge Court,21777,10499,84,4,1.67,6.68
+2018-12-17,596,Breadfruit,Ben Franklin,24 Burning Wood Point,84879,69293,5,8,0.55,4.4
+2018-05-12,597,Foam Dinner Plate,Bargain Hunt,15 Harbort Road,21035,65195,66,3,1.34,4.02
+2019-07-15,598,Lobak,Ocean State Job Lot,68 Di Loreto Park,84029,78735,74,5,1.33,6.65
+2017-11-08,599,Sauce - Salsa,Renys,6 Stone Corner Street,22748,33163,51,6,2.23,13.38
+2019-04-16,600,Nantucket Orange Juice,Costco,75 Waxwing Plaza,22752,24681,57,1,0.24,0.24
+2017-11-08,601,Remy Red,Renys,9 Kingsford Terrace,22748,33163,51,9,0.43,3.87
+2018-06-29,602,Jameson Irish Whiskey,Shopko,64671 Hintze Center,22726,15400,46,8,2.42,19.36
+2018-12-07,603,Sugar - White Packet,Ollie's Bargain Outlet,26 Sutherland Place,37444,39619,94,1,1.98,1.98
+2017-11-08,604,Nut - Pumpkin Seeds,Renys,3767 Lotheville Pass,22748,33163,51,8,1.34,10.72
+2018-06-29,605,"Beans - Black Bean, Dry",Shopko,4 Carioca Court,22726,15400,46,1,0.92,0.92
+2018-09-25,606,Pork - Shoulder,Family Dollar,73 Jackson Street,71053,73236,39,8,2.1,16.8
+2019-04-16,607,"Soup - Campbells, Beef Barley",Costco,86 Lakeland Trail,22752,24681,57,3,0.54,1.62
+2019-09-14,608,"Loaf Pan - 2 Lb, Foil",Five Below,6 Bunker Hill Park,22914,81214,3,1,0.56,0.56
+2018-01-29,609,Spice - Montreal Steak Spice,Gordmans,93903 Maple Parkway,22623,35912,23,4,3.48,13.92
+2020-05-07,610,Sherry - Dry,Dollar General,498 Marquette Point,48187,65729,24,12,0.23,2.76
+2020-05-28,611,Pie Shell - 5,Tuesday Morning,0 Morningstar Street,21755,32913,100,1,1.66,1.66
+2020-07-24,612,"Cake Circle, Paprus",Fred Meyer,40 Transport Alley,22727,87105,69,10,0.48,4.8
+2019-11-26,613,Oil - Olive,Fred's,5712 Portage Junction,21730,56289,22,6,0.65,3.9
+2019-11-26,614,"Vodka - Lemon, Absolut",Fred's,45 Forest Run Circle,21730,56289,22,11,1.75,19.25
+2017-07-23,615,Bread - Italian Sesame Poly,Renys,4 Arizona Terrace,22748,44345,48,1,6.86,6.86
+2020-04-04,616,Sole - Iqf,Dollar Tree,146 Dunning Avenue,21791,34668,82,2,0.13,0.26
+2019-07-09,617,Cup Translucent 9 Oz,Kmart,9153 Luster Lane,21724,20997,43,10,0.52,5.2
+2018-07-09,618,"Soup - Knorr, Classic Can. Chili",Shopko,906 Melody Avenue,22726,63264,40,5,2.9,14.5
+2018-01-29,619,"Wine - Red, Mouton Cadet",Gordmans,7103 Truax Crossing,22623,35912,23,2,4.73,9.46
+2020-05-07,620,"Bread - Multigrain, Loaf",Dollar General,09 Haas Drive,48187,65729,24,8,0.22,1.76
+2018-08-16,621,Tuna - Sushi Grade,Costco,7 Starling Junction,22752,89575,84,2,3.48,6.96
+2017-07-23,622,Truffle Paste,Renys,0540 6th Street,22748,44345,48,6,0.56,3.36
+2020-04-04,623,"Pasta - Fettuccine, Dry",Dollar Tree,927 Namekagon Center,21791,34668,82,8,0.82,6.56
+2020-11-09,624,Clams - Canned,Fred Meyer,4440 Melrose Junction,22727,37511,16,4,2.34,9.36
+2018-09-25,625,Fireball Whisky,Family Dollar,32352 Pond Pass,71053,73236,39,11,0.39,4.29
+2020-11-09,626,Sugar - Icing,Fred Meyer,59550 Kim Park,22727,37511,16,6,1.26,7.56
+2019-10-11,627,Cheese - Brie,Gabe's,4 Village Center,22749,20511,45,3,0.83,2.49
+2019-07-09,628,Chicken Breast Halal,Kmart,96 Amoth Hill,21724,20997,43,11,2.39,26.29
+2020-12-03,629,Beef - Tenderloin Tails,Meijer,1 Hovde Junction,22310,10954,28,11,2.25,24.75
+2018-09-25,630,Eggroll,Family Dollar,55 Ohio Street,71053,73236,39,1,2.38,2.38
+2018-11-24,631,Duck - Legs,Walmart,92 Del Sol Alley,21777,10499,84,8,2.69,21.52
+2020-07-29,632,Oil - Margarine,HomeSense,1857 Kennedy Alley,22728,12517,36,10,0.37,3.7
+2020-12-03,633,Pasta - Agnolotti - Butternut,Meijer,3375 Muir Street,22310,10954,28,4,0.15,0.6
+2018-02-03,634,Bols Melon Liqueur,Stein Mart,88 Oxford Hill,22913,76133,6,4,1.55,6.2
+2018-07-17,635,Cheese - Comtomme,Target,9 Randy Road,22622,51993,43,12,0.69,8.28
+2017-02-13,636,"Coconut - Shredded, Unsweet",Dd's Discounts,6362 Eastwood Court,84969,35915,90,11,0.94,10.34
+2019-02-06,637,Assorted Desserts,Bi-Mart,02135 Lake View Pass,21883,46133,55,7,3.03,21.21
+2018-07-17,638,Muffin - Banana Nut Individual,Target,831 Oxford Way,22622,51993,43,4,2.49,9.96
+2018-10-24,639,"Pork - Sausage, Medium",Roses,62 Park Meadow Point,21756,83303,21,12,1.66,19.92
+2018-02-03,640,Cabbage - Red,Stein Mart,52504 Northwestern Court,22913,76133,6,7,0.17,1.19
+2017-08-31,641,Fruit Mix - Light,HomeGoods,29 7th Place,22632,56781,45,1,3.14,3.14
+2018-03-12,642,Bread - Pita,Harbor Freight Tools,9404 Orin Circle,22960,42573,95,4,1.45,5.8
+2018-02-03,643,Mushroom Morel Fresh,Stein Mart,05 Upham Road,22913,76133,6,1,3.24,3.24
+2017-08-31,644,Five Alive Citrus,HomeGoods,2188 Fieldstone Park,22632,56781,45,1,1.59,1.59
+2018-10-24,645,Muffin - Banana Nut Individual,Roses,01 Anhalt Point,21756,83303,21,10,1.43,14.3
+2018-09-12,646,Fenngreek Seed,Dollar General,96 Dovetail Lane,48187,17845,45,8,2.43,19.44
+2019-09-26,647,Vanilla Beans,T.J. Maxx,791 Corben Lane,10002,41232,77,10,0.12,1.2
+2019-03-02,648,"Veal - Tenderloin, Untrimmed",Marshalls,0925 Lerdahl Lane,22912,62606,32,8,0.23,1.84
+2017-03-15,649,"Sparkling Wine - Rose, Freixenet",Ross Stores,2 Forest Dale Plaza,21754,48800,99,1,3.36,3.36
+2017-09-29,650,Tuna - Salad Premix,Fred's,9667 Troy Plaza,21730,61017,81,9,0.49,4.41
+2018-06-29,651,"Beans - Long, Chinese",Big Lots,715 Debra Crossing,22633,36446,57,2,1.02,2.04
+2020-12-20,652,Sunflower Seed Raw,Walmart,3719 Moose Alley,21777,17970,78,1,2.1,2.1
+2019-01-15,653,Napkin Colour,HomeSense,09719 Canary Plaza,22728,71758,33,10,0.93,9.3
+2018-06-29,654,"Pasta - Lasagne, Fresh",Big Lots,39 Crest Line Terrace,22633,36446,57,8,1.19,9.52
+2019-01-15,655,"Pasta - Rotini, Colour, Dry",HomeSense,5 Fuller Center,22728,71758,33,4,0.11,0.44
+2017-06-04,656,Cake Slab,BJ's Wholesale Club,3659 Longview Drive,84406,18901,12,11,0.96,10.56
+2017-09-29,657,"Wine - White, Mosel Gold",Fred's,16386 Mayer Way,21730,61017,81,7,2.35,16.45
+2018-06-12,658,Wine - Carmenere Casillero Del,Walmart,369 Fairfield Pass,21777,21739,70,4,1.19,4.76
+2018-08-12,659,Chocolate - Compound Coating,Ben Franklin,375 Elgar Parkway,84879,81511,22,8,0.6,4.8
+2017-06-04,660,Cake - Bande Of Fruit,BJ's Wholesale Club,6532 Barnett Way,84406,18901,12,8,0.56,4.48
+2017-08-31,661,"Beef - Rib Roast, Capless",HomeGoods,1809 Melrose Street,22632,56781,45,8,2.42,19.36
+2020-03-28,662,Bread - Bistro White,Shopko,6 Reinke Point,22726,37676,62,2,0.2,0.4
+2018-06-12,663,Raspberries - Frozen,Dd's Discounts,26 Ryan Avenue,84969,70774,100,2,2.57,5.14
+2020-12-02,664,Cheese - Goat,Roses,22 Carberry Crossing,21756,58989,26,9,1.16,10.44
+2017-05-01,665,Tart - Pecan Butter Squares,Dd's Discounts,8011 Monterey Center,84969,18082,97,10,1.96,19.6
+2017-06-23,666,Pectin,National Stores,6 Old Gate Junction,85123,79722,20,4,4.28,17.12
+2017-04-30,667,Beef - Top Butt Aaa,Five Below,22 Bartillon Junction,22914,65301,70,3,5.04,15.12
+2017-06-04,668,Swiss Chard - Red,BJ's Wholesale Club,9474 Rutledge Junction,84406,18901,12,8,0.38,3.04
+2017-03-15,669,Scrubbie - Scotchbrite Hand Pad,Ross Stores,43642 Erie Trail,21754,48800,99,10,1.81,18.1
+2020-02-01,670,Sauce - Vodka Blush,Tuesday Morning,822 Vernon Point,21755,48034,27,1,7.37,7.37
+2019-08-21,671,"Pasta - Linguini, Dry",HomeGoods,0278 Manley Terrace,22632,44705,58,6,0.02,0.12
+2018-02-03,672,Urban Zen Drinks,Stein Mart,3133 Farragut Center,22913,76133,6,8,1.64,13.12
+2017-12-02,673,Beef - Tenderloin Tails,National Stores,1370 Scott Alley,85123,60030,75,12,2.25,27
+2017-08-22,674,"Oil - Olive, Extra Virgin",Gabe's,01619 Sunfield Street,22749,16577,79,3,1.13,3.39
+2020-07-30,675,Goulash Seasoning,Meijer,740 Blackbird Junction,22310,37427,23,4,4.85,19.4
+2017-04-30,676,"Syrup - Monin, Amaretta",Five Below,89458 Veith Center,22914,65301,70,4,2.83,11.32
+2018-09-12,677,"Tart Shells - Sweet, 2",Dollar General,78 Towne Place,48187,17845,45,7,2.43,17.01
+2017-09-29,678,Soho Lychee Liqueur,Fred's,98132 Sugar Hill,21730,61017,81,1,3.28,3.28
+2019-12-22,679,Cheese - Le Cheve Noir,Meijer,4706 Dorton Hill,22310,74345,72,12,2.14,25.68
+2019-08-21,680,Bagel - Whole White Sesame,HomeGoods,09458 Dovetail Place,22632,44705,58,6,0.37,2.22
+2018-07-09,681,Bread - Pumpernickel,Dd's Discounts,442 Claremont Junction,84969,64726,17,5,3.69,18.45
+2017-12-10,682,"Chocolate - Milk, Callets",Gordmans,0 Prairieview Point,22623,41509,68,6,2.55,15.3
+2017-07-01,683,Yoplait - Strawbrasp Peac,Ollie's Bargain Outlet,8 Glendale Drive,37444,18988,98,4,0.95,3.8
+2019-08-21,684,Nut - Pumpkin Seeds,HomeGoods,520 Grim Pass,22632,44705,58,8,0.5,4
+2019-09-07,685,Muffin Puck Ww Carrot,Dollar Tree,1 American Ash Court,21791,58824,19,9,1.34,12.06
+2019-04-25,686,Lettuce - Romaine,Shopko,516 Village Crossing,22726,28813,63,5,0.4,2
+2017-06-04,687,Cheese - Ermite Bleu,BJ's Wholesale Club,666 Hoffman Drive,84406,18901,12,12,0.19,2.28
+2018-03-12,688,Breakfast Quesadillas,Harbor Freight Tools,2552 Cascade Drive,22960,42573,95,1,0.88,0.88
+2019-09-26,689,Kahlua,T.J. Maxx,040 Dexter Street,10002,41232,77,6,0.5,3
+2019-07-15,690,Bread - Pain Au Liat X12,Ocean State Job Lot,1 Novick Parkway,84029,78735,74,10,1.08,10.8
+2019-03-08,691,Wine - Bouchard La Vignee Pinot,HomeSense,7 Rutledge Place,22728,12167,25,8,0.12,0.96
+2017-12-09,692,Juice - Lemon,Renys,4 Swallow Junction,22748,23091,16,1,2.67,2.67
+2017-06-04,693,"Wine - White, Colubia Cresh",BJ's Wholesale Club,20859 Debra Point,84406,18901,12,10,0.61,6.1
+2019-12-14,694,Ecolab - Solid Fusion,Stein Mart,09391 Vernon Terrace,22913,22058,82,10,1.51,15.1
+2018-08-12,695,Mayonnaise,Ben Franklin,85959 Everett Lane,84879,81511,22,1,0.51,0.51
+2017-06-07,696,Sauce - Vodka Blush,Fred Meyer,698 Anniversary Point,22727,78495,43,6,1.3,7.8
+2020-03-19,697,Wine - German Riesling,Shopko,67421 Village Junction,22726,74672,19,11,0.41,4.51
+2017-08-21,698,Trueblue - Blueberry,Meijer,3 Monica Way,22310,43813,30,7,2.12,14.84
+2020-02-01,699,Hand Towel,Tuesday Morning,0284 Kipling Terrace,21755,48034,27,12,1.93,23.16
+2017-04-16,700,Lid Tray - 12in Dome,Bi-Mart,5557 Tennessee Avenue,21883,32508,42,11,2.13,23.43
+2018-06-26,701,Water Chestnut - Canned,Gabe's,6398 Badeau Park,22749,86090,47,7,0.46,3.22
+2020-02-01,702,Container Clear 8 Oz,Tuesday Morning,9234 Schlimgen Circle,21755,48034,27,7,1.86,13.02
+2017-08-21,703,Wine La Vielle Ferme Cote Du,Meijer,873 Northwestern Crossing,22310,43813,30,4,1.46,5.84
+2018-09-12,704,Sunflower Seed Raw,Dollar General,89 Ramsey Plaza,48187,17845,45,9,0.69,6.21
+2017-04-16,705,Tray - 12in Rnd Blk,Bi-Mart,0 Meadow Vale Hill,21883,32508,42,3,2.1,6.3
+2017-07-09,706,Sugar - White Packet,Burlington Coat Factory,72331 Boyd Place,22745,85445,54,1,0.55,0.55
+2019-08-13,707,Wine - Savigny - Les - Beaune,Target,0431 Aberg Center,22622,67647,6,3,0.15,0.45
+2019-08-21,708,Sauce - Oyster,HomeGoods,6236 Delladonna Parkway,22632,44705,58,1,3.33,3.33
+2018-11-14,709,"Flour - Buckwheat, Dark",Costco,0157 Village Avenue,22752,47326,81,10,0.15,1.5
+2017-07-09,710,Wine - Stoneliegh Sauvignon,Burlington Coat Factory,49 Donald Parkway,22745,85445,54,8,0.66,5.28
+2017-08-21,711,Island Oasis - Lemonade,Meijer,34 Bayside Center,22310,43813,30,7,4.8,33.6
+2020-10-05,712,Daves Island Stinger,Walmart,71 Wayridge Point,21777,84013,98,4,4.93,19.72
+2019-10-17,713,Glass Clear 7 Oz Xl,Ocean State Job Lot,5377 Burrows Hill,84029,18327,54,2,1.39,2.78
+2018-07-09,714,Melon - Cantaloupe,Dd's Discounts,66 Ilene Place,84969,64726,17,12,1.57,18.84
+2020-03-19,715,Cookie - Oatmeal,Shopko,953 Cody Avenue,22726,74672,19,12,0.97,11.64
+2020-01-28,716,Squash - Butternut,T.J. Maxx,002 Karstens Crossing,10002,46487,61,1,4.82,4.82
+2019-08-21,717,Pants Custom Dry Clean,HomeGoods,162 Farragut Point,22632,44705,58,10,1.91,19.1
+2017-09-23,718,"Beef - Tongue, Fresh",Dollar General,78740 Waxwing Circle,48187,67076,58,1,6.06,6.06
+2017-12-10,719,Yukon Jack,Gordmans,27 Norway Maple Terrace,22623,41509,68,2,0.93,1.86
+2017-12-02,720,Tequila - Sauza Silver,National Stores,18533 Harbort Road,85123,60030,75,12,1.81,21.72
+2018-08-17,721,Tea - Grapefruit Green Tea,Fred's,864 Ridgeway Pass,21730,53785,54,4,3.91,15.64
+2020-03-19,722,Pork - Ground,Shopko,4 Mcbride Way,22726,74672,19,4,3.01,12.04
+2019-08-08,723,Table Cloth 62x120 Colour,Tuesday Morning,49 Darwin Pass,21755,49757,44,7,3.12,21.84
+2018-03-12,724,Cheese - Grana Padano,Harbor Freight Tools,901 Gale Parkway,22960,42573,95,4,0.35,1.4
+2020-12-02,725,Sambuca - Opal Nera,Roses,54 Emmet Point,21756,58989,26,3,3.33,9.99
+2017-12-09,726,Tart - Lemon,Renys,7183 Fairview Alley,22748,23091,16,5,3.77,18.85
+2020-10-05,727,Soup - Campbells Chili Veg,Walmart,881 Lakewood Gardens Point,21777,84013,98,9,1.59,14.31
+2020-08-02,728,Foil Wrap,Ollie's Bargain Outlet,35 Kinsman Crossing,37444,83387,82,7,0.74,5.18
+2019-08-21,729,Soup Campbells - Italian Wedding,HomeGoods,70872 Northland Alley,22632,44705,58,5,2.98,14.9
+2019-08-08,730,Lettuce - Red Leaf,Tuesday Morning,7 Meadow Vale Alley,21755,49757,44,7,0.68,4.76
+2020-04-06,731,Cheese - St. Andre,Burlington Coat Factory,3 Arapahoe Plaza,22745,43112,8,8,0.54,4.32
+2020-03-19,732,Cheese - Cambozola,Shopko,8 Fairfield Hill,22726,74672,19,8,2.12,16.96
+2018-06-29,733,Stainless Steel Cleaner Vision,Big Lots,59492 Macpherson Center,22633,36446,57,4,1.52,6.08
+2020-02-19,734,Longos - Chicken Caeser Salad,Ben Franklin,05 Graceland Court,84879,69471,99,3,0.06,0.18
+2018-09-14,735,Cloves - Ground,Dollar Tree,12 Waubesa Park,21791,34627,96,5,0.09,0.45
+2017-08-21,736,"Water, Tap",Meijer,976 Rusk Junction,22310,43813,30,9,1.28,11.52
+2018-08-17,737,"Quail - Whole, Bone - In",Fred's,2 Buena Vista Drive,21730,53785,54,12,0.86,10.32
+2017-10-03,738,Sherry - Dry,Family Dollar,81 Milwaukee Street,71053,71309,20,2,0.97,1.94
+2020-02-14,739,"Bread - Roll, Soft White Round",Stein Mart,01 Mallory Drive,22913,60515,61,8,1.3,10.4
+2020-12-02,740,Oil - Sunflower,Roses,64 Hazelcrest Junction,21756,58989,26,11,1.18,12.98
+2020-02-19,741,Chicken - Whole Roasting,Ben Franklin,4653 Ludington Court,84879,69471,99,7,0.98,6.86
+2020-04-23,742,Steam Pan - Half Size Deep,Gabe's,4104 Kings Drive,22749,13152,38,10,1.5,15
+2017-05-10,743,Galliano,HomeSense,8 Sommers Way,22728,63419,67,11,1.11,12.21
+2017-08-21,744,Rabbit - Whole,Meijer,3776 Rigney Road,22310,43813,30,9,2.15,19.35
+2018-06-29,745,Rice - Aborio,Big Lots,4650 Linden Road,22633,36446,57,3,0.88,2.64
+2018-09-14,746,The Pop Shoppe - Grape,Dollar Tree,3867 Arapahoe Hill,21791,34627,96,4,1.91,7.64
+2019-04-11,747,Chips Potato Salt Vinegar 43g,Burlington Coat Factory,974 Mallory Alley,22745,45357,94,1,7.79,7.79
+2018-09-14,748,Radish - Pickled,Dollar Tree,7 Fairfield Drive,21791,34627,96,1,4.95,4.95
+2020-08-23,749,Rice - Long Grain,Ross Stores,1891 Mallory Terrace,21754,53869,94,6,3.94,23.64
+2017-04-14,750,Sausage - Andouille,HomeGoods,251 Mallard Trail,22632,22977,38,3,2.11,6.33
+2020-02-19,751,Mortadella,Ben Franklin,30 Columbus Crossing,84879,69471,99,12,2.93,35.16
+2017-04-14,752,Kellogs Special K Cereal,HomeGoods,504 Dorton Parkway,22632,22977,38,6,0.81,4.86
+2017-12-02,753,Strawberries - California,National Stores,48605 Holmberg Park,85123,60030,75,7,0.42,2.94
+2018-01-23,754,Pail With Metal Handle 16l White,Fred Meyer,2 Butternut Pass,22727,32417,88,12,1.64,19.68
+2018-03-12,755,Leeks - Large,Harbor Freight Tools,68238 Pierstorff Hill,22960,42573,95,5,2.38,11.9
+2020-02-25,756,Trout Rainbow Whole,Shopko,008 Manley Pass,22726,75784,40,8,2.01,16.08
+2017-08-21,757,Toothpick Frilled,Meijer,03754 Northport Park,22310,43813,30,7,3.21,22.47
+2017-11-09,758,Onion - Dried,Fred's,2564 Buell Park,21730,66444,100,10,0.32,3.2
+2020-03-27,759,Quail - Jumbo,Marshalls,05 Judy Terrace,22912,57549,2,8,0.27,2.16
+2020-01-28,760,"Pork - Bacon, Sliced",T.J. Maxx,82 Warbler Circle,10002,46487,61,12,2.58,30.96
+2017-04-30,761,Tomatoes - Cherry,Five Below,3089 Porter Drive,22914,65301,70,3,0.67,2.01
+2017-11-09,762,"Beef - Baby, Liver",Fred's,06 High Crossing Street,21730,66444,100,5,1.88,9.4
+2017-04-14,763,Chicken - Soup Base,HomeGoods,811 Rockefeller Avenue,22632,22977,38,5,0.23,1.15
+2019-11-27,764,Rice Paper,National Stores,0 Cambridge Drive,85123,31617,87,12,1.29,15.48
+2019-06-14,765,Soup - Chicken And Wild Rice,HomeSense,52636 Roth Place,22728,69436,64,2,0.18,0.36
+2017-02-11,766,Rum - Mount Gay Eclipes,BJ's Wholesale Club,849 Upham Road,84406,26512,9,1,2.08,2.08
+2020-02-25,767,Bread - Dark Rye,Shopko,79 Bayside Point,22726,75784,40,8,2.98,23.84
+2017-11-10,768,Energy - Boo - Koo,Stein Mart,4 Rockefeller Point,22913,48960,96,4,0.36,1.44
+2017-02-11,769,Beer - Labatt Blue,BJ's Wholesale Club,27 Manitowish Terrace,84406,26512,9,3,4.11,12.33
+2017-08-21,770,Sage - Rubbed,Meijer,117 Jay Lane,22310,43813,30,7,1.52,10.64
+2018-09-14,771,Wine - Chateauneuf Du Pape,Dollar Tree,05 Schurz Circle,21791,34627,96,6,0.27,1.62
+2019-11-27,772,"Veal - Tenderloin, Untrimmed",National Stores,5883 Mcbride Alley,85123,31617,87,7,3.72,26.04
+2017-01-27,773,Sprouts - Peppercress,Ben Franklin,04357 Eliot Terrace,84879,73144,8,3,1.84,5.52
+2020-02-25,774,Lid - 16 Oz And 32 Oz,Shopko,84 Starling Junction,22726,75784,40,10,1.37,13.7
+2019-11-27,775,Bandage - Flexible Neon,National Stores,208 Sachs Plaza,85123,31617,87,9,1.06,9.54
+2017-01-27,776,The Pop Shoppe - Root Beer,Ben Franklin,580 Clove Avenue,84879,73144,8,8,1.59,12.72
+2020-03-27,777,Lettuce - Escarole,Marshalls,3 Glendale Point,22912,57549,2,1,2.7,2.7
+2019-08-31,778,"Shrimp - 16 - 20 Cooked, Peeled",Big Lots,1 La Follette Drive,22633,20783,92,4,4.84,19.36
+2020-04-15,779,"Croissant, Raw - Mini",Kmart,06 3rd Crossing,21724,58049,62,2,2.3,4.6
+2018-07-15,780,"Lobster - Tail, 3 - 4 Oz",Stein Mart,26 Bobwhite Alley,22913,73616,45,8,0.96,7.68
+2019-04-14,781,"Wine - White, Pelee Island",Ollie's Bargain Outlet,6 Hoard Junction,37444,51760,71,3,1.28,3.84
+2018-07-15,782,"Chicken - Base, Ultimate",Stein Mart,104 Marcy Hill,22913,73616,45,6,2.4,14.4
+2020-02-25,783,Bandage - Fexible 1x3,Shopko,0165 Forest Run Plaza,22726,75784,40,5,3.34,16.7
+2020-01-28,784,"Squash - Pattypan, Yellow",T.J. Maxx,6 Shelley Parkway,10002,46487,61,3,0.17,0.51
+2017-07-13,785,Magnotta - Bel Paese White,Dollar General,22138 Lukken Point,48187,52581,35,3,2.28,6.84
+2020-04-01,786,Dragon Fruit,Bargain Hunt,077 School Pass,21035,65910,52,2,0.09,0.18
+2020-04-15,787,"Pepper - Chillies, Crushed",Kmart,410 Maryland Lane,21724,58049,62,9,0.78,7.02
+2019-02-22,788,Tomatoes - Roma,Family Dollar,681 Hovde Drive,71053,29392,5,2,1.16,2.32
+2017-05-31,789,Bread - Assorted Rolls,Renys,63739 Transport Crossing,22748,50336,77,11,1.63,17.93
+2018-09-23,790,Beans - Wax,Target,75984 Lerdahl Terrace,22622,57268,49,7,1.89,13.23
+2018-04-16,791,Pepper - Sorrano,Fred's,20911 Pond Road,21730,17529,30,6,0.49,2.94
+2018-09-14,792,Dr. Pepper - 355ml,Dollar Tree,2 Katie Point,21791,34627,96,2,5.49,10.98
+2018-06-18,793,Beef Flat Iron Steak,Dollar General,99 Independence Street,48187,48532,100,3,0.52,1.56
+2020-01-27,794,Trout - Smoked,National Stores,18 Vera Circle,85123,17890,59,6,0.57,3.42
+2019-06-30,795,Appetizer - Mango Chevre,Gordmans,03669 7th Alley,22623,28453,81,9,3.29,29.61
+2017-07-02,796,Bagel - Whole White Sesame,Big Lots,1943 Sloan Circle,22633,40667,14,6,2.24,13.44
+2019-09-26,797,"Turkey - Whole, Fresh",Ross Stores,0 Monica Road,21754,17620,61,8,0.35,2.8
+2017-06-04,798,Soupfoamcont12oz 112con,Dd's Discounts,8 Scott Crossing,84969,48309,67,3,4.1,12.3
+2019-10-21,799,Chervil - Fresh,Gabe's,2 Emmet Place,22749,23845,66,8,1.92,15.36
+2017-08-21,800,Pea - Snow,Meijer,3613 Columbus Road,22310,43813,30,7,2.67,18.69
+2017-03-14,801,Bread - Granary Small Pull,Marshalls,31 Vera Junction,22912,56101,8,8,2.66,21.28
+2020-05-04,802,Oxtail - Cut,Fred Meyer,7 Chinook Drive,22727,85949,42,12,0.98,11.76
+2017-03-14,803,"Tortillas - Flour, 12",Marshalls,1 Ronald Regan Avenue,22912,56101,8,4,3.18,12.72
+2019-02-05,804,Rice Paper,Costco,1835 Harper Parkway,22752,78064,29,10,1.04,10.4
+2017-07-18,805,Chocolate - Liqueur Cups With Foil,Shopko,70 Shopko Park,22726,63827,57,1,8.39,8.39
+2020-09-22,806,Guinea Fowl,Harbor Freight Tools,07 Ridgeview Pass,22960,52632,68,10,2.55,25.5
+2018-09-23,807,Soup - Campbells Asian Noodle,Target,335 Norway Maple Junction,22622,57268,49,12,1.04,12.48
+2018-10-04,808,Lettuce - Boston Bib,Ben Franklin,49 Lighthouse Bay Lane,84879,70254,84,5,2.96,14.8
+2018-11-02,809,Samosa - Veg,Walmart,0 Fairview Point,21777,88342,82,7,0.92,6.44
+2018-07-06,810,Cheese - Grie Des Champ,Tuesday Morning,6246 Sugar Pass,21755,30686,4,10,0.44,4.4
+2017-03-14,811,Rice Paper,Marshalls,38 Mosinee Pass,22912,56101,8,1,2.2,2.2
+2017-06-04,812,Spice - Greek 1 Step,Dd's Discounts,274 Lukken Crossing,84969,48309,67,12,0.13,1.56
+2019-06-30,813,Oranges,Gordmans,0 Manley Junction,22623,28453,81,11,1.55,17.05
+2020-04-01,814,Salmon Steak - Cohoe 6 Oz,Bargain Hunt,51 Sunbrook Plaza,21035,65910,52,3,2.07,6.21
+2019-02-22,815,Beans - Wax,Family Dollar,6 Continental Alley,71053,29392,5,8,0.69,5.52
+2019-06-30,816,Lettuce - Frisee,Gordmans,324 Northport Center,22623,28453,81,10,2.45,24.5
+2018-09-14,817,Tea - Green,Dollar Tree,3987 Hallows Place,21791,34627,96,4,0.1,0.4
+2017-05-31,818,Pepper - Cubanelle,Renys,9833 Marcy Lane,22748,50336,77,4,2.14,8.56
+2017-01-07,819,Dome Lid Clear P92008h,Ollie's Bargain Outlet,162 Laurel Street,37444,88434,100,3,0.79,2.37
+2019-10-16,820,"Beef - Rib Roast, Capless",T.J. Maxx,926 La Follette Parkway,10002,31897,26,8,3.7,29.6
+2017-05-31,821,"Pasta - Fettuccine, Egg, Fresh",Renys,759 Sutherland Terrace,22748,50336,77,9,1.47,13.23
+2018-07-06,822,Pastry - Baked Cinnamon Stick,Tuesday Morning,5 Fallview Alley,21755,30686,4,9,1.1,9.9
+2019-05-08,823,"Wine - Red, Metus Rose",Ben Franklin,44 Morning Point,84879,63592,81,8,4,32
+2018-03-04,824,Toamtoes 6x7 Select,Family Dollar,739 Kim Drive,71053,18960,64,3,1.06,3.18
+2018-05-30,825,Beans - Fava Fresh,Burlington Coat Factory,789 Sachtjen Road,22745,75682,97,11,1.45,15.95
+2019-03-11,826,Towel Dispenser,T.J. Maxx,330 Ludington Junction,10002,44856,3,9,3.61,32.49
+2019-01-26,827,"Flour - Bran, Red",Ocean State Job Lot,89551 Waywood Junction,84029,60530,28,3,1.08,3.24
+2019-06-30,828,"Pepper - Black, Whole",Gordmans,0 Vermont Parkway,22623,28453,81,4,3.82,15.28
+2020-01-27,829,Pie Shell - 9,National Stores,178 Derek Crossing,85123,17890,59,6,2.24,13.44
+2019-01-26,830,Piping - Bags Quizna,Ocean State Job Lot,5 Golf Center,84029,60530,28,7,2.23,15.61
+2018-01-04,831,Kohlrabi,Stein Mart,782 Bobwhite Drive,22913,58951,76,10,1.43,14.3
+2020-01-27,832,Squid - Tubes / Tenticles 10/20,National Stores,968 Nelson Plaza,85123,17890,59,2,5.19,10.38
+2020-06-16,833,Bread Base - Gold Formel,Bi-Mart,2 Stoughton Place,21883,35864,21,8,1.63,13.04
+2020-07-02,834,Hot Chocolate - Individual,National Stores,57 Anniversary Crossing,85123,20625,28,8,0.08,0.64
+2020-07-02,835,Plaintain,National Stores,0 Butterfield Hill,85123,20625,28,7,0.72,5.04
+2019-03-11,836,Chinese Foods - Chicken,T.J. Maxx,3068 Cardinal Park,10002,44856,3,4,0.54,2.16
+2018-07-06,837,Bag Clear 10 Lb,Tuesday Morning,22591 Pine View Terrace,21755,30686,4,6,1.37,8.22
+2017-03-22,838,Wine - Alsace Gewurztraminer,BJ's Wholesale Club,42 Mitchell Way,84406,48316,54,11,1.3,14.3
+2020-06-16,839,"Mushroom - Enoki, Fresh",Bi-Mart,36439 Brickson Park Point,21883,35864,21,2,1.24,2.48
+2017-03-22,840,Soup - Campbells Tomato Ravioli,BJ's Wholesale Club,0 Stuart Crossing,84406,48316,54,8,0.32,2.56
+2017-05-26,841,Toothpick Frilled,Gabe's,64 Susan Parkway,22749,78997,82,1,2.01,2.01
+2018-05-05,842,Onions - Cooking,Family Dollar,357 Kings Street,71053,45451,14,2,5.95,11.9
+2017-03-05,843,"Wine - Magnotta, Merlot Sr Vqa",Ross Stores,8 Dryden Park,21754,40431,85,2,3.84,7.68
+2020-07-02,844,The Pop Shoppe Pinapple,National Stores,0 Claremont Park,85123,20625,28,8,2.55,20.4
+2020-11-06,845,Papadam,Meijer,42 Morrow Alley,22310,12505,14,1,8.53,8.53
+2018-04-16,846,Calypso - Pineapple Passion,Fred's,98 Lyons Pass,21730,17529,30,2,5.26,10.52
+2020-11-06,847,Remy Red Berry Infusion,Meijer,9437 Rowland Alley,22310,12505,14,6,2.1,12.6
+2019-01-19,848,Sausage - Meat,T.J. Maxx,9 Anhalt Center,10002,18726,87,5,1.91,9.55
+2019-04-20,849,Beer - Upper Canada Light,Dollar Tree,9382 Stephen Trail,21791,73982,31,2,1.35,2.7
+2019-03-18,850,Wine - Prosecco Valdobienne,Marshalls,59834 Forster Junction,22912,63655,16,4,0.27,1.08
+2019-03-17,851,Anchovy In Oil,Kmart,88136 Menomonie Terrace,21724,73261,75,3,4.96,14.88
+2020-06-29,852,Latex Rubber Gloves Size 9,Shopko,3351 John Wall Road,22726,49638,82,1,6.26,6.26
+2017-03-23,853,Wine - Pinot Noir Mondavi Coastal,Costco,383 Briar Crest Way,22752,10917,53,12,1.53,18.36
+2018-02-08,854,Beef - Striploin Aa,Fred's,3 Arizona Street,21730,19985,57,11,0.84,9.24
+2018-01-04,855,Cream Of Tartar,Stein Mart,4 New Castle Circle,22913,58951,76,12,1.61,19.32
+2017-06-04,856,"Spoon - Soup, Plastic",Dd's Discounts,9610 Meadow Valley Way,84969,48309,67,3,2.58,7.74
+2018-06-24,857,"Wine - Red, Pelee Island Merlot",HomeGoods,539 Merry Junction,22632,85392,50,8,2.23,17.84
+2020-12-13,858,Chicken Breast Halal,Kmart,94079 Warner Plaza,21724,46291,83,6,0.28,1.68
+2018-01-04,859,Tea - Decaf 1 Cup,Stein Mart,4 2nd Hill,22913,58951,76,3,0.34,1.02
+2017-04-26,860,Veal - Inside,Fred Meyer,13298 Petterle Place,22727,44253,76,8,1.52,12.16
+2017-08-21,861,"Soup - Knorr, Classic Can. Chili",Marshalls,56063 La Follette Parkway,22912,68014,29,10,1.26,12.6
+2017-01-17,862,Lemonade - Pineapple Passion,Bargain Hunt,75 Park Meadow Crossing,21035,18120,82,8,1.1,8.8
+2017-03-22,863,Corn - Mini,BJ's Wholesale Club,65905 Superior Plaza,84406,48316,54,2,5.8,11.6
+2020-08-06,864,Pecan Raisin - Tarts,Tuesday Morning,32377 Manufacturers Center,21755,45375,97,1,4.56,4.56
+2017-11-15,865,"Coconut - Creamed, Pure",National Stores,6 Delladonna Street,85123,14746,41,8,0.3,2.4
+2017-04-26,866,"Lamb - Whole, Fresh",Fred Meyer,878 Corry Circle,22727,44253,76,2,1.7,3.4
+2018-06-15,867,Orange Roughy 6/8 Oz,Roses,8427 Del Sol Lane,21756,86897,88,2,1.86,3.72
+2017-06-04,868,Nantucket Cranberry Juice,Dd's Discounts,0 Elgar Road,84969,48309,67,11,1.18,12.98
+2017-04-14,869,Yukon Jack,Kmart,9306 Glacier Hill Terrace,21724,16031,50,7,2.69,18.83
+2017-04-14,870,Wine - Fat Bastard Merlot,Kmart,83079 Sutherland Pass,21724,16031,50,12,0.53,6.36
+2018-06-18,871,"Tomatoes - Cherry, Yellow",Dollar General,49847 Petterle Circle,48187,48532,100,7,1.23,8.61
+2020-08-06,872,Soup - Campbells Mac N Cheese,Tuesday Morning,31 Killdeer Crossing,21755,45375,97,12,1.55,18.6
+2018-06-18,873,Salt And Pepper Mix - Black,Dollar General,48816 Bartillon Place,48187,48532,100,11,2.25,24.75
+2017-01-17,874,Muffin - Banana Nut Individual,Bargain Hunt,8 Glacier Hill Parkway,21035,18120,82,11,2.76,30.36
+2019-06-22,875,Muffin Mix - Blueberry,Costco,77718 Randy Court,22752,48532,73,7,0.6,4.2
+2020-03-09,876,Ham - Cooked Bayonne Tinned,Ocean State Job Lot,83 Del Sol Crossing,84029,29878,21,3,2.07,6.21
+2017-11-18,877,Puff Pastry - Slab,Family Dollar,771 Gerald Way,71053,10351,87,11,0.9,9.9
+2018-12-16,878,Appetiser - Bought,Ben Franklin,07 Waywood Road,84879,87528,99,8,3.07,24.56
+2018-10-21,879,Wine - Masi Valpolocell,Harbor Freight Tools,7196 Morning Hill,22960,80872,35,4,2.51,10.04
+2017-03-26,880,"Tart Shells - Sweet, 3",Ollie's Bargain Outlet,2377 Coolidge Road,37444,55564,60,7,3.15,22.05
+2019-04-02,881,Pastry - Baked Scones - Mini,Gabe's,77 Waubesa Lane,22749,37323,72,6,1.77,10.62
+2018-12-07,882,Olives - Stuffed,Dollar Tree,81978 Stoughton Parkway,21791,89031,87,10,1.27,12.7
+2018-11-02,883,Tea - Herbal Sweet Dreams,Target,01 Delladonna Terrace,22622,69701,66,6,4.21,25.26
+2018-12-07,884,Beer - Sleeman Fine Porter,Dollar Tree,22576 Sullivan Court,21791,89031,87,12,1.02,12.24
+2018-10-21,885,Broom - Corn,Harbor Freight Tools,908 Iowa Terrace,22960,80872,35,2,12.09,24.18
+2019-02-02,886,Leeks - Large,Target,25 Norway Maple Plaza,22622,53738,82,11,0.71,7.81
+2020-01-10,887,Pheasants - Whole,HomeSense,4 Pond Terrace,22728,41283,71,11,0.95,10.45
+2017-06-05,888,Oil - Avocado,HomeSense,25258 Westport Junction,22728,77389,6,10,0.91,9.1
+2017-08-21,889,"Tea - Darjeeling, Azzura",Marshalls,9 Merry Crossing,22912,68014,29,2,2.32,4.64
+2018-05-30,890,"Wine - Red, Concha Y Toro",Burlington Coat Factory,5278 La Follette Hill,22745,75682,97,11,0.62,6.82
+2017-04-27,891,"Soup - Campbells, Minestrone",Ben Franklin,794 Armistice Plaza,84879,82779,36,3,5.91,17.73
+2018-01-04,892,Muffin Hinge - 211n,Stein Mart,31458 Calypso Alley,22913,58951,76,2,0.23,0.46
+2017-04-26,893,Cherries - Frozen,Fred Meyer,9804 American Ash Pass,22727,44253,76,9,0.68,6.12
+2018-03-10,894,"Soup - Knorr, Ministrone",Bi-Mart,0785 Kensington Plaza,21883,86997,70,10,0.37,3.7
+2019-06-30,895,"Wine - Red, Antinori Santa",Gordmans,2230 Evergreen Pass,22623,28453,81,1,0.02,0.02
+2018-05-14,896,Gatorade - Lemon Lime,Shopko,17 Gateway Drive,22726,80902,41,5,1.82,9.1
+2018-12-07,897,"Lamb - Whole, Fresh",Dollar Tree,082 Karstens Plaza,21791,89031,87,6,2.94,17.64
+2017-08-21,898,"Bread - Pumpernickle, Rounds",Marshalls,0140 American Park,22912,68014,29,10,0.36,3.6
+2017-03-22,899,Relish,BJ's Wholesale Club,0037 Victoria Crossing,84406,48316,54,9,0.62,5.58
+2017-03-21,900,Chives - Fresh,Five Below,8971 Di Loreto Point,22914,44995,94,2,2.89,5.78
+2018-05-14,901,Oil - Olive,Shopko,40 Graedel Hill,22726,80902,41,1,1.98,1.98
+2017-01-17,902,Veal - Heart,Bargain Hunt,2487 Hovde Terrace,21035,18120,82,1,1.83,1.83
+2017-03-21,903,Water - Aquafina Vitamin,Five Below,223 Sheridan Trail,22914,44995,94,10,0.07,0.7
+2018-10-21,904,"Lemonade - Strawberry, 591 Ml",Harbor Freight Tools,9230 Park Meadow Hill,22960,80872,35,10,0.58,5.8
+2018-12-07,905,Sour Puss Sour Apple,Dollar Tree,1 Eastlawn Parkway,21791,89031,87,5,0.93,4.65
+2018-06-18,906,Macaroons - Homestyle Two Bit,Dollar General,34 Cascade Plaza,48187,48532,100,11,0.71,7.81
+2018-11-25,907,Mix - Cocktail Ice Cream,Dd's Discounts,41701 4th Place,84969,21434,92,4,3.3,13.2
+2020-04-06,908,"Pasta - Lasagne, Fresh",Family Dollar,92 Vera Parkway,71053,26343,90,5,1.16,5.8
+2018-03-10,909,"Oranges - Navel, 72",Bi-Mart,285 Harbort Center,21883,86997,70,6,1.88,11.28
+2020-02-07,910,Wine - Rhine Riesling Wolf Blass,Roses,3735 Lien Drive,21756,12392,53,2,2.57,5.14
+2017-03-21,911,Sugar - Palm,Stein Mart,5 Orin Hill,22913,24895,58,12,0.67,8.04
+2017-01-17,912,Coffee - Hazelnut Cream,Bargain Hunt,5 Vermont Crossing,21035,18120,82,6,0.18,1.08
+2018-06-18,913,Persimmons,Dollar General,5693 Bultman Road,48187,48532,100,7,4.22,29.54
+2017-03-21,914,Sprouts - Bean,Stein Mart,2 Esch Park,22913,24895,58,7,0.13,0.91
+2019-12-03,915,Fondant - Icing,Walmart,1311 Jenna Parkway,21777,60185,26,6,0.21,1.26
+2019-03-11,916,"Pepper - Black, Ground",Gabe's,8 Carey Court,22749,75907,48,3,2.84,8.52
+2017-04-14,917,Flavouring - Orange,Kmart,532 Express Crossing,21724,16031,50,10,1.89,18.9
+2017-03-21,918,"Wine - White, Riesling, Semi - Dry",Stein Mart,4 Swallow Center,22913,24895,58,12,1.35,16.2
+2018-05-14,919,Sea Bass - Fillets,Shopko,2 Rockefeller Crossing,22726,80902,41,9,1.46,13.14
+2020-12-03,920,Sun - Dried Tomatoes,Ocean State Job Lot,3 1st Court,84029,70583,80,5,2.07,10.35
+2017-01-26,921,Parasol Pick Stir Stick,Gordmans,1 Bartelt Road,22623,50756,44,5,3.53,17.65
+2018-07-25,922,Beer - Tetleys,Costco,23 Ryan Lane,22752,42870,15,8,0.45,3.6
+2017-11-09,923,Bread - Raisin,T.J. Maxx,24 Summit Center,10002,60289,9,7,2.95,20.65
+2017-03-22,924,Truffle - Peelings,BJ's Wholesale Club,759 David Point,84406,48316,54,6,2.06,12.36
+2019-03-03,925,"Wine - White, Riesling, Henry Of",Harbor Freight Tools,58332 Talmadge Avenue,22960,35657,68,4,2.93,11.72
+2017-04-03,926,Ecolab - Hobart Upr Prewash Arm,Dollar Tree,67808 Spaight Pass,21791,14095,4,12,1.56,18.72
+2017-04-03,927,"Tomatoes - Diced, Canned",Dollar Tree,76 Maywood Court,21791,14095,4,6,1.64,9.84
+2020-12-03,928,Cake - Pancake,Ocean State Job Lot,24347 Stone Corner Road,84029,70583,80,1,2.83,2.83
+2018-07-28,929,Fenngreek Seed,Marshalls,4 Katie Trail,22912,28827,19,10,1.73,17.3
+2017-04-14,930,Wine - Rhine Riesling Wolf Blass,Kmart,342 Green Drive,21724,16031,50,8,2.45,19.6
+2018-07-10,931,Pears - Anjou,Ollie's Bargain Outlet,988 Michigan Avenue,37444,50203,37,8,2.79,22.32
+2018-07-10,932,Milk - 1%,Ollie's Bargain Outlet,5 Independence Crossing,37444,50203,37,6,1.12,6.72
+2020-07-11,933,Soup - French Can Pea,Fred's,920 Larry Parkway,21730,17521,42,6,1.07,6.42
+2020-09-06,934,V8 Splash Strawberry Banana,Fred Meyer,5 Magdeline Street,22727,59595,44,3,1.94,5.82
+2020-07-11,935,Tobasco Sauce,Fred's,4 Onsgard Way,21730,17521,42,8,0.79,6.32
+2019-12-03,936,Breakfast Quesadillas,Walmart,867 Fallview Junction,21777,60185,26,5,0.45,2.25
+2019-04-14,937,Puree - Raspberry,Dd's Discounts,48 Bay Road,84969,52725,6,8,2.09,16.72
+2020-08-06,938,"Veal - Shank, Pieces",Tuesday Morning,08492 Vera Way,21755,45375,97,12,0.86,10.32
+2017-01-17,939,Cookies Cereal Nut,Bargain Hunt,41269 Delladonna Drive,21035,18120,82,10,1.82,18.2
+2018-07-28,940,Soup Campbells - Tomato Bisque,Marshalls,8 Lukken Terrace,22912,28827,19,6,2.77,16.62
+2020-08-06,941,Ham - Procutinni,Tuesday Morning,9952 Lindbergh Alley,21755,45375,97,2,3.74,7.48
+2020-12-03,942,Bandage - Fexible 1x3,Ocean State Job Lot,038 Ridgeway Circle,84029,70583,80,9,2.01,18.09
+2020-08-06,943,Cake - Pancake,Tuesday Morning,59 Porter Crossing,21755,45375,97,2,1.76,3.52
+2018-02-08,944,Puff Pastry - Sheets,Roses,52 Reinke Circle,21756,40413,22,2,2.58,5.16
+2019-12-18,945,Lettuce - Treviso,Bi-Mart,8614 Ridgeway Center,21883,89430,32,8,0.89,7.12
+2017-05-03,946,Muffin - Banana Nut Individual,Dollar General,28 Sutteridge Alley,48187,54245,81,10,1.19,11.9
+2020-08-28,947,Beer - Tetleys,Renys,12101 Pawling Junction,22748,71356,12,7,1.91,13.37
+2019-12-18,948,Cheese - Parmigiano Reggiano,Bi-Mart,6 Dottie Circle,21883,89430,32,1,0.75,0.75
+2017-02-04,949,Extract - Lemon,HomeSense,0 Division Avenue,22728,13787,99,2,2.76,5.52
+2018-03-27,950,Muffin Mix - Oatmeal,Big Lots,715 Del Sol Road,22633,37042,88,2,3.96,7.92
+2020-02-06,951,Wine - Savigny - Les - Beaune,T.J. Maxx,10 Cascade Drive,10002,26502,13,12,1.44,17.28
+2019-06-22,952,"Pepper - Black, Ground",BJ's Wholesale Club,441 Helena Place,84406,11233,1,9,0.14,1.26
+2019-02-02,953,Cheese - Cream Cheese,Target,02193 Mifflin Avenue,22622,53738,82,1,0.61,0.61
+2020-09-24,954,Nacho Chips,Dollar Tree,53247 Arkansas Parkway,21791,23468,62,6,2.03,12.18
+2019-06-22,955,Peppercorns - Green,BJ's Wholesale Club,76 Pine View Plaza,84406,11233,1,5,0.94,4.7
+2017-05-03,956,Chicken - Whole,Dollar General,880 Fairview Avenue,48187,54245,81,5,1.47,7.35
+2017-04-23,957,"Lamb - Pieces, Diced",Family Dollar,72 Gulseth Parkway,71053,88241,41,4,2.44,9.76
+2018-04-22,958,"Cup - 3.5oz, Foam",Roses,56067 Golf Way,21756,22114,6,12,0.7,8.4
+2017-05-03,959,Chef Hat 25cm,Dollar General,6531 Dapin Plaza,48187,54245,81,10,2.04,20.4
+2017-02-04,960,Pineapple - Golden,HomeSense,5 Packers Circle,22728,13787,99,4,2.18,8.72
+2017-10-17,961,Petite Baguette,Gabe's,4 Harper Hill,22749,44711,29,11,0.74,8.14
+2017-10-17,962,Rice - Aborio,Gabe's,759 Gerald Circle,22749,44711,29,12,1.2,14.4
+2019-10-02,963,Beer - True North Strong Ale,Stein Mart,0845 Goodland Street,22913,27607,13,10,1.73,17.3
+2020-10-28,964,Chicken Thigh - Bone Out,Fred's,42 Summit Alley,21730,40895,20,6,2.11,12.66
+2020-10-08,965,Ginger - Ground,Burlington Coat Factory,57786 Prairieview Alley,22745,68276,14,7,0.09,0.63
+2019-12-03,966,"Capon - Breast, Wing On",Gordmans,168 Tomscot Junction,22623,52026,42,4,3.12,12.48
+2020-02-06,967,Wine - Magnotta - Belpaese,T.J. Maxx,5 Hanson Court,10002,26502,13,10,1.94,19.4
+2020-05-06,968,Longos - Chicken Curried,Shopko,6359 Alpine Street,22726,29815,89,2,1.26,2.52
+2017-01-18,969,Spice - Paprika,Walmart,660 Esker Alley,21777,11133,27,5,1.7,8.5
+2018-07-25,970,Tamarillo,Costco,96487 Buena Vista Road,22752,42870,15,11,1.54,16.94
+2017-04-23,971,Cakes Assorted,Family Dollar,27 South Terrace,71053,88241,41,6,0.68,4.08
+2020-10-28,972,Brandy - Bar,Fred's,5 Waxwing Terrace,21730,40895,20,2,0.91,1.82
+2020-05-06,973,"Sauce - Black Current, Dry Mix",Shopko,68988 Mitchell Circle,22726,29815,89,10,0.91,9.1
+2018-04-22,974,Muffin Orange Individual,Roses,88 Annamark Center,21756,22114,6,10,0.68,6.8
+2017-10-27,975,The Pop Shoppe - Grape,Target,1 Lien Parkway,22622,47793,47,5,4.45,22.25
+2017-01-18,976,"Soup - Campbells, Creamy",Walmart,93318 Cascade Park,21777,11133,27,1,7.79,7.79
+2019-12-24,977,Sole - Fillet,Dollar General,77 West Lane,48187,36942,45,9,1.25,11.25
+2017-10-27,978,Banana Turning,Target,0964 Schmedeman Drive,22622,47793,47,3,3.55,10.65
+2017-01-18,979,"Beans - Turtle, Black, Dry",Walmart,29193 Lunder Lane,21777,11133,27,2,0.27,0.54
+2018-12-12,980,Cup - Translucent 7 Oz Clear,Family Dollar,53033 Clyde Gallagher Crossing,71053,71261,29,8,1.25,10
+2020-02-06,981,Tofu - Firm,T.J. Maxx,6 Mayfield Terrace,10002,26502,13,10,1.07,10.7
+2020-09-10,982,Bread - Mini Hamburger Bun,Five Below,4703 Blue Bill Park Point,22914,54664,42,11,1.34,14.74
+2017-10-27,983,Flour - Pastry,Target,302 Sundown Way,22622,47793,47,5,4.07,20.35
+2017-10-27,984,Cabbage - Red,Target,50768 Karstens Street,22622,47793,47,4,1.25,5
+2018-02-14,985,Chinese Foods - Plain Fried Rice,Dollar Tree,84 Superior Drive,21791,50967,70,12,1.53,18.36
+2017-11-09,986,"Wine - Red, Marechal Foch",Ollie's Bargain Outlet,40 Blue Bill Park Pass,37444,87495,48,9,1.09,9.81
+2020-02-06,987,Salmon - Fillets,T.J. Maxx,98 Lake View Junction,10002,26502,13,1,1.67,1.67
+2017-03-06,988,Wine - Manischewitz Concord,Ben Franklin,09220 John Wall Point,84879,76183,47,12,0.02,0.24
+2020-04-16,989,Ecolab Crystal Fusion,National Stores,0 Anthes Road,85123,84155,3,8,2.12,16.96
+2018-04-24,990,Coffee - Decafenated,Bi-Mart,2 Schmedeman Park,21883,87647,18,10,1.23,12.3
+2020-07-05,991,"Seedlings - Buckwheat, Organic",Roses,9 Randy Road,21756,56600,58,3,1.09,3.27
+2020-08-06,992,Bok Choy - Baby,Tuesday Morning,1557 Boyd Street,21755,45375,97,6,2.71,16.26
+2017-10-19,993,Turkey - Ground. Lean,Walmart,59238 Shopko Terrace,21777,58349,64,6,1.43,8.58
+2019-09-25,994,"Basil - Dry, Rubbed",Gabe's,3 Tennyson Trail,22749,13147,65,9,1.04,9.36
+2017-06-12,995,Wine - Pinot Noir Stoneleigh,Kmart,9 Morningstar Parkway,21724,62937,68,2,4.17,8.34
+2017-10-19,996,Okra,Walmart,7 Roxbury Place,21777,58349,64,3,0.99,2.97
+2020-07-13,997,Pork - Smoked Back Bacon,T.J. Maxx,9476 Morrow Trail,10002,42135,9,12,1.45,17.4
+2019-07-09,998,Flounder - Fresh,Burlington Coat Factory,3029 Hollow Ridge Place,22745,29578,23,6,1.8,10.8
+2020-08-06,999,Bread - Wheat Baguette,Tuesday Morning,496 Dapin Hill,21755,45375,97,6,0.41,2.46
+2020-12-27,1000,"Soup - Knorr, French Onion",Big Lots,99 Granby Place,22633,40207,85,2,4.42,8.84
